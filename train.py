@@ -1,5 +1,6 @@
 # THEANO_FLAGS=device=gpu,floatX=float32 python train.py
 # bug: training length should be larger than batch size
+# version alpha, the most original one
 from keras.models import Sequential
 from keras.layers import Dense, Activation, Dropout
 from keras.layers import LSTM
