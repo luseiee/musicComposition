@@ -86,7 +86,7 @@ def trainModel(X_train, y_train, seq_length, dic_size):
 
 ### Predict the output notes with feedin and write it out to music_out.txt
 def predict(model, feedin, len, i_to_m):
-	predi = []
+	predi = [list(f).index(True) for f in feedin]
 	m = copy.deepcopy(feedin)
 	for i in range(len):
 		y = model.predict(np.array([m]))
@@ -105,7 +105,7 @@ def predict(model, feedin, len, i_to_m):
 	return(predi)
 
 ### The main program
-melody = splitMusic("dataset/data.txt")
+melody = splitMusic("dataset/demo.txt")
 melo_to_index, index_to_melo, dic_size = makeDict(melody)
 X_train, y_train = makeTrainset(melody, melo_to_index)
 X_train, y_train, X_test, y_test = X_train[0:80000], y_train[0:80000], X_train[-20000:], y_train[-20000:]
@@ -117,7 +117,7 @@ comp = [predict(model, X_test[i], 200, index_to_melo) for i in range(0,20000,100
 wave = [[index_to_melo[i] for i in c] for c in comp]
 wave = [[[m.split()[1], float(m.split()[0])] for m in w] for w in wave]
 for i,w in enumerate(wave):
-	pysynth.make_wav(w, fn = "composed_melody/test/test"+str(i)+".wav")
+	pysynth.make_wav(w, fn = "composed_melody/demo/demo"+str(i)+".wav")
 
 ### Save the model
-model.save('trained_model/my_model.h5')
+model.save('trained_model/demo.h5')

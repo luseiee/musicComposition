@@ -3,17 +3,6 @@
 """
 Parse a file in ABC music notation format and render with PySynth.
 
-Usage:
-
-read_abc.py filename [num_song] [--syn_b/--syn_s/--syn_e]
-
-* num_song selects the song in the file corresponding to the number given
-* --syn_b and --syn_s can be added to use the PySynth B or PySynth S
-    modules, respectively, instead of the default PySynth A
-
-Some of the definitions are borrowed from PlayABC 1.1
-
-2012-07-17
 """
 
 import sys, urllib2
@@ -323,6 +312,6 @@ if not sel:
 # 	print
 # 	print len(song)
 
-f = open("dataset/data.txt",'a+')
+f = open("dataset/demo.txt",'a+')
 f.write(str(song))
 f.write('\n')
