@@ -105,7 +105,7 @@ def predict(model, feedin, len, i_to_m):
 	return(predi)
 
 ### The main program
-melody = splitMusic("dataset/classic.txt")
+melody = splitMusic("dataset/demo.txt")
 melo_to_index, index_to_melo, dic_size = makeDict(melody)
 X_train, y_train = makeTrainset(melody, melo_to_index)
 X_train, y_train, X_test, y_test = X_train[0:3000], y_train[0:3000], X_train[-800:], y_train[-800:]
@@ -117,7 +117,7 @@ comp = [predict(model, X_test[i], 200, index_to_melo) for i in range(0,800,40)]
 wave = [[index_to_melo[i] for i in c] for c in comp]
 wave = [[[m.split()[1], float(m.split()[0])] for m in w] for w in wave]
 for i,w in enumerate(wave):
-	pysynth.make_wav(w, fn = "composed_melody/classic/classic"+str(i)+".wav")
+	pysynth.make_wav(w, fn = "composed_melody/demo/demo"+str(i)+".wav")
 
 ### Save the model
-model.save('trained_model/classic.h5')
+model.save('trained_model/demo.h5')

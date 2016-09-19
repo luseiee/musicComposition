@@ -312,6 +312,6 @@ if not sel:
 # 	print
 # 	print len(song)
 
-f = open("dataset/classic.txt",'a+')
+f = open("dataset/demo.txt",'a+')
 f.write(str(song))
 f.write('\n')
