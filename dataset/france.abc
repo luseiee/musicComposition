@@ -1,0 +1,2550 @@
+%abc
+%%%%                   G A L L I A  
+%                        (Gaule)
+%
+%            musiques traditionnelles françaises
+%                      
+%  © Copyright (c) - CC-BY-NC-SA pour ce travail  Eric Forgeot - http://anamnese.online.fr/               
+                   
+%
+% Ces musiques sont au format ABC (http://abcnotation.org).
+% Quelques logiciels recommandés pour exploiter ce format de fichier :
+%    AbcMus	 http://www.norbeck.nu/abcmus/ (pour l'écoute)
+%    Abc2win     http://www.c7r.com/abc/ (pour la visualisation des notes)
+% ou mieux : 
+%    Abcmidi	 http://abc.sourceforge.net/abcMIDI/ (pour générer des fichiers midi)
+%    Abcm2ps     http://moinejf.free.fr/ (pour le format postscript)
+% 
+% en ligne : http://www.concertina.net/tunes_convert.html
+%
+% (Ce fichier a été automatiquement généré par abcpp)
+%
+% Transcriptions
+% © Copyright (c) Eric Forgeot - http://anamnese.online.fr/  
+% Pas d'Utilisation Commerciale - Partage des Conditions Initiales à l'Identique 2.0 France
+% selon http://creativecommons.org/licenses/by-nc-sa/2.0/fr/
+%                  
+% Autre copyright pour les autres auteurs respectifs.
+%
+% Le "copyright" et la licence CC signifient pas que je m'approprie le travail
+% des compositeurs à mon compte, mais seulement qu'il n'est pas permis 
+% d'utiliser mon travail de transcription pour imprimer des partitions 
+% ou des livres destinés à la commercialisation. La restriction est
+% uniquement pour ce cas, et l'usage raisonnable (fair use) est toléré.
+%
+% Ces titres sont libres pour toute utilisation personnelle exclusivement.
+% Ce travail ne me rapporte rien financièrement.
+%
+%
+% (copyright for the abc transcription only)
+%
+% This file may be freely copied.
+% You can use this work for every purposes, except making money with it (e.g. sell printable scores) 
+% Fair use is permitted.
+% 
+% Dernière mise à jour :  mardi 23 septembre 2008 à 23:05
+%
+%
+%%%%
+
+%%abc-charset iso-8859-15
+
+%
+
+
+
+
+%%textfont CaslonAntique 18
+
+%%titlefont CaslonAntique 22
+%%subtitlefont CaslonAntique 16
+%%composerfont   CaslonAntique 10
+
+
+%%headerfont CaslonAntique 12
+%%footerfont CaslonAntique 8
+
+%%annotationfont CaslonAntique 10
+%%infofont CaslonAntique 16
+%%historyfont CaslonAntique 16
+
+
+%%measurefont CaslonAntique 14
+%%partsfont CaslonAntique 14
+%%repeatfont CaslonAntique 14
+
+%%tempofont CaslonAntique 14
+%%vocalfont CaslonAntique 16
+%%voicefont CaslonAntique 16
+%%wordsfont CaslonAntique 16
+%%gchordfont CaslonAntique 14
+%%setfont-1 CaslonAntique 16
+%%setfont-2 CaslonAntique 16
+%%setfont-3 CaslonAntique 16
+%%setfont-4 CaslonAntique 16
+
+%%textfont CaslonAntique 25
+%%vskip 0.5cm
+%%center G A L L I A     
+%%textfont CaslonAntique 18
+%%vskip 0.5cm          
+%%center musiques traditionnelles françaises
+%%textfont CaslonAntique 16
+%%center 
+%%center 
+%%sep
+%%center   
+%%vskip 0.5cm
+%%EPS @@MyEPS@@
+%%textfont CaslonAntique 12
+%%text Transcriptions par 
+%%text Eric Forgeot
+%%text http://anamnese.fr.st
+%%vskip 0.0cm
+%%text Version :  septembre 2008
+%%vskip 0.5cm
+%%titlespace 0.5cm
+%%% wordsfont %% 
+%%Page 
+%%footer $P0	G A L L I A - Transcription : Eric Forgeot - http://anamnese.online.fr	$P1
+%%textfont CaslonAntique 12
+
+
+X:1
+T:Au clair de la lune
+R:
+N:
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr
+M:C
+L:2/4
+Q:1/4=80
+K:C
+CCCD E2 D2 | CEDD C4 | CCCD E2 D2 | CEDD C4 | 
+w:Au clair de la lu-ne, mon a-mi Pier-rot, Prê-te-moi ta plu-me, pour é-crire un mot.
+DDDD A,2 A,2 | DCB,A, G,4 | CCCD E2 D2 | CEDD C4 ||
+w:Ma chan-delle est mor-te, je n'ai plus de feu. Ou-vre-moi ta por-te, pour l'a-mour de dieu.
+W:Au clair de la lune, Pierrot répondit
+W:Je n'ai pas de plume, je suis dans mon lit.
+W:Va chez la voisine, je crois qu'elle y est
+W:Car dans sa cuisine, on bat le briquet.
+W:
+W:Au clair de la lune, l'aimable Lubin
+W:Frappe chez la brune, elle répond soudain
+W:« Qui frappe de la sorte ? », il dit à son tour
+W:« Ouvrez votre porte pour le Dieu d'Amour »
+W:
+W:Au clair de la lune, on n'y voit qu'un peu
+W:On chercha la plume, on chercha du feu
+W:En cherchant d'la sorte je n'sais c'qu'on trouva
+W:Mais je sais qu'la porte sur eux se ferma. 
+
+
+
+
+X:22
+T:Le fou du roi
+R:
+N:tagafolk.abc
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/4
+Q:3/4=130
+K:F
+V:1
+z2 | A4 c2 | f2 A2 c2 | d2 B2 d2 | c2 A2 c2 |
+B2 c2 B2 | A2 d2 c2 | B2 c2 B2 | A2 A2 F2 | BB BB BB |
+A2A2A2 | G2G2G2 | A4F2 |
+V:2
+cc | F2F2 AA | F2 F2 FF | F2F2 FF | F2F2 EF |
+G2G2 GG | F2F2 AA | G2G2 CC | F2F2F2 | DE FG FD |
+C2 D2 D2 | E2 D2 E2 | F4 F2 | 
+
+X:22
+T:Cercle Circassien
+R:
+N:tagafolk.abc
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr
+M:6/8
+L:1/8
+Q:3/8=130
+K:C
+"Am"E2 A A2 "G"G | "Am"E2 E "G"DCD | "Am"E2 AA2 B | "F"cAc "G" BGB |\
+"Am"E2 A A2 "G"G | "Am"E2 E "G"DCD | "Am"EAB "F"cdc | "G"BcB "Am"A3 ::
+"Am"e2 e efe | "G" dcB "F"A2 B | cAA ABc | "G"dBB Bcd |\
+"Am"e2 e efe | "G" dcB "F"A2 B | cdc "G"BcB | "Am"A2 A A3 :|
+
+X:23
+T:Tarantelle
+R:Cercle
+N:tagafolk.abc
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr
+M:6/4
+L:1/8
+Q:3/8=130
+K:C
+EAB cBc dcB c3 | ABc BAB dc Bc3 |
+EAB cBc dcB c3 | ABc BAB dc BA3 ::
+a2a e2e a2a e3 | ede f3 fgf e3 |
+cde d3 Bcd c3 | ABc BAB dc BA3 :|
+
+X:24
+T:Cercle de l'ours
+R:Cercle
+N:tagafolk.abc
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr
+M:C
+L:1/8
+Q:1/4=114
+K:C
+A/B/c/d/ eA A/B/c/d/ eA | ABc2 Bc dB | cd eA eA eA | AB c2 B2 A2 ::
+A>c Ac BAG2 | A>c Ac dddc/d/ | ee dd cc BB |1 AedB A2 A2 :|2 [M:3/4] AedB A2 |]
+
+
+%%vskip 0.5cm
+%%sep
+%%text Bourrées :
+
+
+X:25
+T:Bourrée des semailles
+T:Bourrée Ra Ta Tam Bourbonnaise
+R:Bourrée
+N:parfois aussi appelé La bergère de Coulandon
+N:tagafolk.abc
+D:voir Amustrad
+O:France
+A:
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:2/4
+L:1/8
+Q:1/4=120
+K:C
+f2 ef | d3 e/f/ | gf ed | e/f/e/d/c2 |
+f2 ef | d3 e/f/ | gf ed | c4 :: 
+d>e cd | B3 c | d>c dg | f/g/ f/e/ dc |
+d2 cd |  B3 c | d>c dc/d/ | c4 :|
+%var
+de/d/ cd | B3 c | d>c dg | f/g/ f/e/ dc |
+W:"Je prends le blé, je le sème à la volée..."
+W:"Je fauche..."
+
+X:26
+T:Bourrée plet
+R:Bourrée
+N:il doit y avoir une légère imprécision de rythme que je n'ai pas encore réussi à corriger
+D:voir 
+O:France
+A:
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:3/4
+L:1/8
+Q:1/4=115
+K:G
+BBc BAG | FGA GFE | BBc BAG | AGF E3 ::
+FFG F>E F | B2GFE2 | FFG FEF | BGF E3 :|
+
+X:27
+T:Bourrée d'Aumont
+R:Bourrée
+N:tagafolk.abc
+O:France
+A:Auvergne
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/8
+L:1/8
+Q:3/8=110
+K:C
+cdg | f2e | d2e | cB2 | cdg | f2e | dec | d3 ::
+gfe | def | g>ag/f/ | ec2 | efe | ded | c2 B | c3 :|
+
+X:28
+T:Derrière chez nous
+R:Bourrée
+N:
+N:tagafolk.abc
+D:Voir Maluzerne
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:2/4
+L:1/8
+Q:1/4=140
+K:F
+G2GF | G3 A| B>AGF | G2 DE | F2FE | F3 G | A>GFE |1 D4 :|2 D3 G |:
+K:Bb
+B2 e2 | d3 c | A>c BA | B2 (3A/B/A/ G |
+B2 e2 | d3 c | A>c BA |1 G3 G :|2 G4 |]
+W:Derrière chez nous, il y a une montagne
+W:Moi et mon amant [ma maîtresse] la montons bien souvent
+W:En la montant grands dieux qu'il y a de peines
+W:En descendant quel soulagement !
+
+X:28
+T:Scottische valse
+R:Scottische valse
+N:
+D:Voir Maluzerne
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:C
+L:1/8
+Q:1/4=130
+K:C
+V:1
+%%MIDI channel 1
+%%MIDI program 20 % reed organ
+%%MIDI transpose 0
+A2 cA B2 Bc | de dB c2 A2 | 
+A2 cA B2 Bc | de dB A4 |
+V:2
+z8 | z8 |
+z8 | z8 |
+%
+V:1
+M:3/4
+Q:1/4=90
+Bce cd2 ded BcA | Bce cd2 ded BA2 |
+V:2
+%%MIDI channel 1
+%%MIDI program 20 % reed organ
+%%MIDI transpose 0
+B,C2 CD2 DE2 EA2 | B,C2 CD2 DE2 EA2 |
+
+X:97
+T:La laine des moutons
+R:Bourrée
+O:France
+N:tagafolk.abc
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:3/4
+L:1/4
+Q:1/2=110
+K:F
+D |: G/G/G A | B2 B | A/B/ c |  AB2 D | 
+     G/G/G A | B2 B | A/B/ c |1 AG2 D :|2
+AG2 d|: d2 c | B2 B | A/B/ c |  AB2 d |
+        d2 c | B2 B | A/B/ c |1 AG2 d :|2 AG2 z ||
+W:La laine des moutons, c'est nous qui la tondaine,
+W:La laine des moutons, c'est nous qui la tondons.
+W:Tondons, tondons, la laine des moutaines,
+W:Tondons, tondons, la laine des moutons.
+W:
+W:La laine des moutons, c'est nous qui la lavaine,
+W:La laine des moutons, c'est nous qui la tondons.
+W:Lavons, lavons...
+
+X:40
+T:Le grand projet
+R:chanson
+C:Trad. / François Marchant (1761-1793)
+N:détail amusant, l'air est celui de "Quand la mer Rouge apparut" :))
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:C|
+L:1/4
+Q:1/4=135
+K:A
+   c c | A A e e | c2 e A | d c B2 |
+A2 c c | A A e e | c2 e A | d c B2 |
+A2 a a | g g f f | e2 e f | e (d/c/) d e |
+c c/ d/ e e | e c/ d/ e e | e c/ d/ e c/ d/ |
+e c/ d/ e e | f2 e2 | A>B c d | (cB) A-|A4-|A2 z z || 
+%%vskip 2cm
+%%multicol start
+%%rightmargin 11.5cm
+%%begintext
+W:Un soir, disait Condorcet
+W:A plus d'un confrère,
+W:J'ai dans la tête un projet
+W:Qui pourra vous plaire,
+W:Il nous faut, mes chers amis 
+W:Etablir en ce pays
+W:
+W:Une ré ré ré 
+W:Une pu pu pu 
+W:Une ré 
+W:Une pu 
+W:Une république 
+W:d'une forme unique.
+W:
+W:Danton voulait de Louis,
+W:Porter la couronne,
+W:Mais bientôt à mes avis
+W:Danton s'abandonne
+W:Car il pense comme moi,
+W:Que rien ne vaut mieux ma foi
+W:
+W:Qu'une ré ré ré
+W:Qu'une pu pu pu
+W:Qu'une ré
+W:Qu'une pu
+W:Qu'une république
+W:Bien démocratique.
+W:
+%%endtext
+%%multicol new
+%%leftmargin 11.5cm
+%%begintext
+W:On porte aux cieux un héros
+W:Tant qu'il est utile,
+W:On jouit de ses travaux,
+W:Ensuite, on l'exile,
+W:Cela n'est pas trop décent,
+W:Mais c'est l'usage pourtant
+W:
+W:D'une ré ré ré
+W:D'une pu pu pu
+W:D'une ré
+W:D'une pu
+W:D'une république
+W:Bien démocratique
+W:
+W:Sans craindre d'un importun
+W:Les discours infâmes,
+W:Nous mettrons tout en commun
+W:Jusques à nos femmes,
+W:Si nous agissons ainsi,
+W:C'est pour mieux saisir l'esprit
+W:
+W:D'une ré ré ré
+W:D'une pu pu pu
+W:D'une ré
+W:D'une pu
+W:D'une république
+W:Bien démocratique
+%%endtext
+%%multicol end
+
+
+
+
+
+X:29
+T:suite de polkas piquées
+R:polka
+N:tagafolk.abc
+O:France
+A:
+Z: Eric Forgeot - http://anamnese.online.fr
+P:AABBCC AABBCC
+M:2/2
+L:1/8
+Q:1/4=140
+K:C
+%%MIDI program 21 %% accordéon
+P:A
+e2g2 d/e/f/d/ ec | e2g2 d/e/ d c2 ::
+d/e/f/e/ d e/f/ g f e c | d/e/f/e/ d e/d/ c B c2 ::
+P:B
+gag2 f/g/f/e/ d2 | gag2 f/g/f/e/ d2 ::
+ecBc d/c/d/f/e c | ecBc d/e/d/B/ c2 ::
+P:C
+dec2 d/e/d/c/B G | fed>g ^f a/g/e2 |
+dec2 d/e/d/c/B G | fed>g ^f a/g/c2 |
+e/f/g/e/ c ee d/c/d2 | d/e/f/d/ B dc/B/c/e/g2 |
+e/f/g/e/ c ee d/c/d2 | d/e/f/d/ B dc/B/c/e/c2 |]
+
+X:10
+T:Polka du Moulinet
+R:Polka
+C:Mes souliers sont rouges
+N:
+D:
+O:France
+Z:  Eric Forgeot - http://anamnese.online.fr
+M:2/2
+L:1/8
+Q:1/4=130
+K:C 
+%%abc2pscompat
+V:1
+%%MIDI program 22 %Accordion 
+|: A>B AB cece | dBfB d {d}BGB |
+A>B AB cece | dBGB A2 A2 :||:
+A2 a2 gecc | dBfB d {d}BGB |
+A2 a2 gecc | dBGB A2 A2 :|
+V:2
+%%MIDI program 34 %Bass 
+K:C bass
+%%MIDI transpose -36
+|: A2B2 c2e2 | g2d2 g2 ega2 | e2c2e2g2 | ^g2 aecB :||:
+A2B2 c2e2 | g2d2 g2 ega2 | e2c2e2g2 | ^g2 aecB :|
+%%MIDI transpose 0
+
+X:30
+T:Maraichines
+R:
+N:tagafolk.abc
+O:France
+A:Vendée
+Z: Eric Forgeot - http://anamnese.online.fr
+M:6/8
+L:1/8
+Q:1/4=120
+K:G
+[P:1A] GGG GGG | A2AB2G | GGG GGG | A2FG3 :: [P:1B][M:2/4] (3GFE DD | EF G2 |
+(3GFE DB, |1 CA,B,2 :|2 CA,G,2 |: [P:2A] DDG2 | (3GFG A2 |
+Ac BG |1 FG AA :|2 FA G2 |: [P:2B] G3/2A/4B/4 AG | FG A2 | G3/2A/4B/4 AG |
+FAG2 :||: [P:3A] c2 Bc | d2d2 | e>d cB |1 A3/2B/4A/4 G2 :|2 A3/2B/4A/4 G3/2G/4G/4 |:
+[P:3B] Bdc2 | BA G3/2G/4G/4 | Bd cB |1 A2 G3/2G/4G/4 :|2 A2 G2 ||
+
+
+
+
+
+%%vskip 0.5cm
+%%sep
+%%text Poitou :
+ 
+
+X:12
+T:La jolie fille de Parthenay
+R:chanson
+S:Le Parler Poitevin - Emilien Traver
+N:p. 91
+O:France
+A:Poitou
+Z: Eric Forgeot - http://anamnese.online.fr
+M:6/8
+L:1/8
+Q:1/4=135
+K:G
+G G G A3 | G G G D3 | G G G A2 A | (G2 F) G2 z | B B B B3 | B B A Hd2 z |!
+B B B B2 A | d d d HD2 z || B B B A2 A | E F D G2 G | B B B A2 A | E F D G2 z |]
+
+X:13
+T:Chant de labour
+R:chanson
+S:Le Parler Poitevin - Emilien Traver
+N:p. 90
+O:France
+A:Poitou
+Z:  Eric Forgeot - http://anamnese.online.fr
+M:6/8
+L:1/8
+Q:1/4=135
+K:G
+D2 | G3 A B G | B A2 z D2 | G3 G B G |  A3 z2 D | G3 A B G | B2 A2 z A | G3 A F E |
+D3 z D2 | G2 F G2 A |
+A2 E G2 A | G2 F E D D | E F G A2 A | G F E D2 z |
+B2 G c2 A | {B}A GF A2 z | B2 G c2 A | {B} A GF G2 |]
+W:O l'était un bounhoumme, Un marchant de panais,
+W:Le vinguit a ma porte, Demander a coucher 
+W:Noblet, Berbet, Trouillet, Trouillet, Tournade et Cadet,
+W:Pigeau, Marécheau, Tartare et Doré
+W:J'aille, j'aille, mon valet, (bis) 
+
+X:14
+T:Compli'mens dau Bregeay
+R:chanson
+S:Le Parler Poitevin - Emilien Traver
+N:p. 113
+O:France
+A:Poitou
+Z:  Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=135
+K:C
+G/ c d | e>d c e | d>G c d | e>d c e | d>G c d | e>d e B | 
+A>G A B | c2d2 | G>G c d | e>d c B | A>G A B | c2d2 | c4 ||
+W:Perrot, quarche ton chalumia, (bis)
+W:Plante m'y thi tous tes agneas Pervenir ocque nous ;
+W:Vint t'en veure thieute chouse de bia
+W:Que j'allons veure tertous. /.../
+
+X:15
+T:Avant-deux Mardi-Gras (vers 0)
+R:
+N:
+O:France
+A:
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:4/4
+L:1/8
+Q:1/4=120
+K:C
+V:1
+%%MIDI program 20
+A/B/c/d/ ee dg dB | GB A/B/c/d/eee2 | A/B/c/d/ ee dg dB | GB A/B/c/B/A2 A2 :||:
+A/E/C/B,/ A,A, cB G2 | G/E/C/B,/ G,G, CE A2
+V:2
+%%MIDI program 20
+A,2 A,2 G,2 G,2 | G,2 G,2 A,2 E,2 | A,2 A,2 G,2 G,2 |G,2 G,2 A,2 A,2 :||: 
+A,2 A,2 A,2 .C,2 | C,2 C,2 C,2 A,2 | A,2 A,2 A,2 C,2 | C,2 C,2 C,2 A,2 |
+
+X:16
+T:Avant-deux Mardi-Gras
+R:Avant-deux
+N:tagafolk.abc
+O:France
+A:Poitou
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:4/4
+L:1/8
+Q:1/4=120
+K:C
+V:1
+%%MIDI program 20
+A/B/c/d/ ee dg dB | GB A/B/c/d/ ee e2 | A/B/c/d/ ee dg dB | GB A/B/c/B/A2 A2 :||:
+A/E/C/E/ AA cB G2 | G/E/C/E/ GG E G A2 | A/E/C/E/ AA cB G2 |  G/E/C/E/ GG E G A2 |
+e/c/A/c/ ee ce g2 | g/e/c/e/ gg eg e2 | e/c/A/c/ ee ce g2 | g/e/c/e/ gg eg e2 ||
+V:2
+%%MIDI program 20
+A,2 A,2 G,2 G,2 | G,2 G,2 A,2 E,2 | A,2 A,2 G,2 G,2 |G,2 G,2 A,2 A,2 :||: 
+A,2 A,2 A,2 .C,2 | C,2 C,2 C,2 A,2 | A,2 A,2 A,2 C,2 | C,2 C,2 C,2 A,2 |
+A,2 A,2 A,2 .C,2 | C,2 C,2 C,2 A,2 | A,2 A,2 A,2 .C,2 | C,2 C,2 C,2 A,2 ||
+
+
+
+
+
+%%vskip 0.5cm
+%%sep
+%%text Alpes :
+
+X:1
+T:Rigodon la débraillée de Laye
+R:Rigodon
+S:Emile Escalle
+N:bien faire sonner le bourdon (plus que sur cette adaptation)
+N:sur le disque ("Violon Traditionnel en France"), le violon sonne 1/2 sous la normale
+G:Violon
+O:France
+A:Hautes Alpes (Molines en Champsaur)
+Z:transcription (d'oreille) :  Eric Forgeot - http://anamnese.online.fr
+P:ABCC.2(BBCC)
+M:4/4
+L:1/8
+Q:1/4=135
+%%MIDI program 110 %fiddle 
+K:G
+  z2 [DA]dd dd2 | {cB} cB AB cd [A2e2] |\
+ [Ae]f gf ga gf | [Ae]f ef ec [D2d2] |
+Q:1/4=135
+ | [D2A2]dd dd2 | {cB} cB AB cd [A2e2] |\
+ [Ae]f gf ga gf | [Ae]f ef ec [D2d2]
+Q:1/4=150
+  |: [D2A2] de ef [A2g2] | fg aa ab a2 |\
+    ae gg ga gf | ef ef/e/ [D2d2] :|
+
+X:1
+T:Rigodon les filles de vers St Martin
+R:Rigodon
+G:Violon
+O:France
+A:Hautes Alpes
+Z:transcription (d'oreille) :  Eric Forgeot - http://anamnese.online.fr
+%%MIDI program 110 %fiddle 
+P:
+M:2/4
+L:1/8
+Q:1/4=240
+K:F
+|: c2F2 | GA BA | GG FG | c2F2 | GA BA | G4 :|
+K:C
+|: A2D2 | FG BA | GG FG | A2D2 | FG BA | G4 :|
+W:Les filles de vers St Martin se croyent belles mais ne le sont guère. (2x)
+W:la grêle qui les a passées et la vérole les a défigurées (2x)
+W:Les filles de vers St Marty elles tuent les puces à coup de fusil
+W:les nôtres elles sont comme ça elles prennent un clap et leur foutent un bon coup.
+W:Nanette quand vous danserez levez la tête tricotez des pieds (2x)
+W:les hommes qui vous font dansez ne sont pas vôtres il faut les ménager. (2x)
+
+X:1
+T:Air de rigodons du Gapençais
+R:Rigodon
+O:France
+A:Hautes Alpes
+Z: Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/2=110
+%%MIDI program 110 %fiddle 
+K:G
+|: gf ge d2 Bc | dc BA B2 G2 | gf ge d2 Bc | dc BA G4 :| 
+|: AG AB c2 Bc | dc BA B2 G2 | AG AB c2 Bc | dc BA G4 :|
+K:Eb
+K:Cm %=Eb for some problematic parsers
+|: dg gf g2 df ed cd e2 c2 | dg gf g2 df ed ed c4 :|
+|: B2 cd e2 dc BB cd e>e dc | B2 cd e2 dc B2 cd e4 :|
+
+
+X:2
+T:Rigodon du Trièvres
+R:Rigodon
+N:
+D:Rigodon Sauvage (Ocora)
+G:Violon
+O:France
+N:transcription notes: Philippe Borne
+Z: (recopie abc :  Eric Forgeot - http://anamnese.online.fr)
+%%MIDI program 110 %fiddle 
+M:2/4
+L:1/8
+Q:1/4=96
+K:G
+c | Bc d>d | e/f/g/g/ ed/c/ | Bc d>e | d/c/B/A/ Ge | d/c/B/A/ G2 |
+|: GB/B/ GB/B/ | G/G/B/c/ d>d | e/f/g/e/ d>e | d/c/B/A/ G2 :|
+
+
+%%vskip 0.5cm
+%%sep
+%%text Bretagne :
+
+X:21
+T:Cercle écroulé
+R:Hanter Dro
+N:tagafolk.abc
+O:France
+A:Bretagne
+Z: Eric Forgeot - http://anamnese.online.fr
+M:6/8
+L:1/8
+Q:1/4=95
+K:C
+ed/e/ gd e2 f/e/d/c/ B/c/d/B/ cA | ed/e/ gd e2 f/e/d/c/ B/c/d/B/ Az | [M:1/6] z2 | 
+ed/e/ gd e2 f/e/d/c/ B/c/d/B/ c2 |: AB/c/ AG c2 cB/c/ edcB | AB/c/ AG c2 cB/c/ edB2 :|
+ed/e/ gd e2 f/e/d/c/ B/c/d/B/ Az | [M:1/6] z2 ||
+
+X:21
+T:Cercle écroulé (2) *
+R:Hanter Dro
+N:tagafolk.abc
+O:France
+D:Bleizi-Ruz Hanter droiou
+Z: Eric Forgeot - http://anamnese.online.fr
+M:6/8
+L:1/16
+Q:1/4=95
+K:F
+|: GABGA2 d2 cBAB | GABGA2 d2 cBAB | AGFGA2  d2 cBA2 :| 
+|: dfdcB2 AG c4   | ABAGF2 GA B2 z2 | [M:1/4] z4| [M:6/8] dfdcB2 AG A4 | dffcd2BAG4 :|
+
+X:21
+T:Hanter Dro An Dro *
+R:Hanter Dro / An Dro
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr
+M:6/8
+L:1/8
+Q:1/4=100
+K:C
+A c/B/ cd e2 | d c/B/ dc AE |
+A c/B/ cd e2 | d c/B/ dc A2 |
+M:6/8
+A/B/c/d/ ee d/e/d/c/ | B A/B/ c B/A/ B2 |
+A/B/c/d/ ee d/e/d/c/ | B A/B/ c B A2 |
+
+X:21
+T:A travailler...
+R:
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr
+M:6/8
+L:1/8
+Q:1/4=95
+K:C
+A2 cBcd e2 d>c B dc A2 
+ABc d c2 c2 dedc 
+
+
+
+X:31
+T:Scottish du pays de Retz
+R:Scottish
+N: eB cB ou eB eB ?
+O:France
+A:
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:2/4
+L:1/8
+Q:1/4=100
+K:C
+P:(A)
+A/B/c/d/ cc | B/c/d/c/ Bc/d/ | eB cB |1 c/d/c/B/ cA :|2 c/d/c/B/ A2 ||
+P:(B)
+ed/e/ f2 | e/d/c/d/ e2 | eB cB |1 c/d/c/B/ cA :|2 c/d/c/B/ A2 |]
+
+X:32
+T:gavotte 
+R:
+N:tagafolk.abc
+O:France
+A:Bretagne
+Z: Eric Forgeot - http://anamnese.online.fr
+M:4/4
+L:1/8
+Q:1/4=160
+K:G
+EDEF GAB2 | edBA B2B2 |
+EDEF GAB2 | edBA B2B2 |:
+edBA BAG2 | GEFG A2B2 |
+edBA BAG2 | GEFG E2E2 :|
+
+X:33
+T:Plinn
+R:Plinn
+N:tagafolk.abc
+O:France
+A:Bretagne
+Z: Eric Forgeot - http://anamnese.online.fr
+P:AABCBC
+M:C
+L:1/8
+Q:1/4=145
+K:C
+P:A
+e2de cdec | e2de cde2 :: e2dc BAAG | A2GA FGA2 :|
+P:B
+d2cd ecd2  | d2cd ecd2 |\
+d2cd ec dd | d2cd ecd2 |
+P:C
+|: f2ef gafe | d2cd ecd2 :|
+
+X:34
+T:Suite d'Hanter Dro (1)
+R:Hanter Dro
+C:Trad.
+N:tagafolk.abc
+O:France
+A:Bretagne
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:1/4=85
+K:C
+P:[1]
+cc/B/ ce ed | ce/g/ gf/e/ dd | cc/B/ ce ed 
+|1 ce/g/ g/g/f/e/ d2 :|2 ce/g/ g/g/f/e/ dd/e/ |: 
+P:[2]
+ff/e/ fa g2 | eg/f/ ed cd/e/ | ff/e/ fa g/f/e/c/ 
+|1 d/d/e/f/ ed cd/e/ :|2 d/d/e/f/ ed c2 |] 
+
+X:35
+T:Suite d'Hanter Dro (2)
+R:Hanter Dro
+C:Trad.
+N:tagafolk.abc
+O:France
+A:Bretagne
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:1/4=85
+K:C
+P:[1]
+ee/f/ {eg}ed c2 | ed/c/ BB/d/ c>A | e/d/e/f/ {eg}ed c2
+|1 ed/c/ BB c>A :|2 ed/c/ BB c2 |
+P:[2]
+AA/B/ c/B/c/d/ e2 | cd/e/ fd/f/ e2 | cd/e/ fe d>B | de/d/ cB cB/c/ |
+AA/B/ c/B/c/d/ e2 | cd/e/ f/g/a/f/ e2 | cd/e/ fe d>B | de/d/ cB A2 |]
+
+X:36
+T:Kas a-Barh 
+R:Kas a-Barh
+C:Trad.
+N:tagafolk.abc
+O:France
+A:Bretagne
+Z: Eric Forgeot - http://anamnese.online.fr
+M:4/4
+L:1/16
+Q:1/4=85
+K:C
+A2GA B2Bd cBAG ABcd | AAGA B2Bd ccBBA4 |
+AAGA B2Bd cBAG ABcd | AAGA BGBd ccB2 ABcd 
+|: e2ce f3d (3dddcd e2c2 | A2GA B2Bd  cBAG ABcd |
+eceg agfe dG(3GGG efed |1 c2cA BGBd ccB2 ABcd :|2 
+c2cA BGBd ccB2 A4 ||
+
+X:37
+T:Kas a-Barh
+R:Kas a-Barh
+C:
+N:tagafolk.abc
+Z: Eric Forgeot - http://anamnese.online.fr
+M:4/4
+L:1/8
+Q:1/4=80
+K:C
+ee/f/ e>d cB AB/c/ | dd B>G A/B/c/d/ e2 | ee/f/ e>d cB AB/c/ | dd B>G A/B/c/B/ A2 ::
+egA2 egB2 | ddB>G A/B/c/d/ e2 | egA2 egB2 | dd B>G A/B/c/B/ A2 :|
+
+X:9
+T:Kost'er Hoed 
+R:Kost'er Hoed 
+C:Trad.
+O:France
+A:Bretagne
+Z: Eric Forgeot - http://anamnese.online.fr
+N:tagafolk.abc
+M:4/4
+L:1/8
+Q:1/4=175
+K:C
+AB cB dc {Bd}B2 | cB AG A2A2 | AB cB dc BB | cB AG A2A2 ::
+AB cB dc (3BcB | AB cd ee/e/ eg | e2 dc ed {ce}c2 | Bc AG A2A2 :|
+
+
+X:38
+T:A la cours du palais 
+R:an dro
+C:Trad.
+N:tagafolk.abc
+D:voir Traînes-Meuriennes
+O:France
+A:Bretagne
+Z: Eric Forgeot - http://anamnese.online.fr
+M:4/4
+L:1/8
+Q:1/4=162
+K:C
+c2cc BAB2 | cBAB cBA2 | c2cc BABB | cBAB c2A2 :|
+BABc d2BB-| BABc d2B2 | BABc d2BB-| BABc d2B2 ||
+
+X:38
+T:Quand la bergère.... 
+R:Tour
+C:Trad.
+A:Bretagne
+D:voir Traînes-Meuriennes
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr
+M:4/4
+L:1/8
+Q:1/4=100
+K:F
+|: dd/d/ cc/d/ cB AG |
+   dd/d/ cc/d/ cB A2 :|
+M:3/4
+|: BA/B/ cd BA | GA/B/ AG F2 |
+   BA/B/ cd BA | GA/B/ Ad G2 :|
+W:Quand la bergère s'en va au moulin hé
+W:Quand la bergère s'en va au moulin (2x)
+W:Monte dessus son âne Martin (...tin tin)
+W:Monte dessus son âne et s'en va au moulin
+W:Quand le meunier la voit venir de rien ne peut se retenir (2x)
+W:Attache donc ton âne martin adore là tin tin
+W:Attache donc ton âne à la queue du moulin (2x)
+W:Pendant que le moulin tournait meunier l'a à peine caressée (2x)
+W:Le loup a mangé l'âne Martin adore là tin tin
+W:Le loup a mangé l'âne à la queue du moulin (2x)
+W:
+
+X:38
+T:Derrière chez moi 
+R:Pile Menu
+C:Trad.
+D:voir Traînes-Meuriennes
+O:France
+A:Bretagne
+Z: Eric Forgeot - http://anamnese.online.fr
+M:4/4
+L:1/8
+Q:1/4=120
+K:C
+eeefedcB
+eeefedcB
+AAeee c2 A2 AB/c/d2 e d/c/B BB eee c2 A2 
+AAeee c2 A2 AB/c/d2 e d/c/B BB eee c2 A2
+W:Derrière chez moi y'a un étang 
+W:revenez à moi mon cher aimant
+W:
+W:Revenez à moi ma blonde 
+W:car vous avez un petit coeur 
+W:qui charme tout le monde
+W:Trois beaux canards s'en vont baignant
+W:Il a deux noirs, il y a un blanc
+W:Le fils du roi s'en va chassant
+W:Avec son beau fusil d'argent
+W:Visa le noir tua le blanc
+W:Oh fils du roi qu'tu es méchant
+W:Tu as tué mon canard blanc
+W:Par dessous l'aile il perd le sang
+W:Et par le bec l'or et l'argent
+W:Que feront nous de tant d'argent
+W:Nous mettrons les filles au couvent
+W:Et les garçons au régiment
+
+
+
+X:38
+T:Rond de Loudeac 
+R:Rond de Loudeac
+C:Trad.
+D:voir Groupe sans gain
+O:France
+A:Bretagne
+Z: Eric Forgeot - http://anamnese.online.fr
+M:4/4
+L:1/8
+Q:1/4=135
+K:C
+P:Chant
+A,DD>FED C2 EG GGFED2
+A,DD>FED C2 EG GGFED2
+A2 GAFE D D/D/D FF AA G/F/E2 
+A2 GAFE D D/D/D FE GFED2
+P:Violon
+A,DD>FED C2 EG GGFED2
+A,DD>FED C2 EG GGFED2
+A2 GAFE D D/D/D FF AA GE2 
+A2 GAFE D D/D/D FE GF2D2
+W:Ce sont les filles de Langua qui sont belles et gentilles
+W:S'en vont à la saint Jean doum doum dalali tralalom dalira 
+W:dans leurs plus belles hardes
+W:Le fils du roi qu'est là mon gars celui-là les regarde 
+W:Demande à son valet doum doum....
+W:Laquelle qu'est la plus belle
+W:
+W:C'est la petite France Zamonga qu'à la ceinture dorée
+W:Va la chercher danser
+W:De la part de son maître
+W:Non non je n'irai point danser
+W:Je suis suis fille à biser
+W:Fille à biser n'est pas
+W:Vous serez mariée
+W:
+W:
+
+
+X:38
+T:Mon père il m'a mariée 
+R:Laridé
+C:Trad.
+D:voir Groupe sans gain
+O:France
+A:Bretagne
+Z: Eric Forgeot - http://anamnese.online.fr
+M:4/4
+L:1/8
+Q:1/4=135
+K:F
+   DA AA AB A2 | G>A GE FG AF |
+   DA AA AB A2 | G>A GE FG AF |
+|: D2 FF AA G2 | G>A GE FG AF |
+   D2 FF AA G2 | G>A GE FE D2 :|
+W:Mon père il m'a mariée (4x)
+W:
+W:A un drôle de beau gré 
+W:gai laridon madondaine
+W:A un drôle de beau gré 
+W:gai laridon madondé
+W:
+W:Et il s'en va au marché
+W:Sans rien me rapporter
+W:Qu'un bâton de vert pommier
+W:C'est pour m'y corriger
+W:Mais un jour je m'en irai
+W:Je te laisserai seul te saoûler
+W:
+W:Je m'en irai chez le curé
+W:logera dans son grenier
+W:Et moi je le servirai
+W:Et beaucoup mieux que toué
+
+
+X:6
+T:Déjà mal mariée, déjà
+C:trad.
+D:
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:3/4
+L:1/8
+Q:1/4=125
+K:A
+C C F | [M:2/4] F3 E | C3 C | F> G A F | [M:3/4] E2 F C C F |
+        [M:2/4] F3 E | C3 C | F> G A F | [M:3/4] E2 F F F G |
+	[M:2/4] A2 A2 | G3 G | F> G A F | E E C2 | 
+	C> F F F | E E C2 | C> F F F | E2 F2 |  
+	C> F F F | E E C2 | C> F F F |[M:3/4] E2 F z z2 ||
+%
+W:Mon père m'a mariée, à un tailleur de pierre, (2x)
+W:Le lendemain d'mes noces, m'envoie à la carrière - là !
+W:
+W:Déjà mal mariée, déjà, )
+W:Déjà mal mariée, djé ! ) 2x
+W:
+
+
+
+X:39
+T:Les prisons de Nantes
+R:chanson
+N:
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:2/4
+L:1/8
+Q:1/4=135
+K:C
+"Am"A2EA | AB A2 | GA "G"B/B/B/B/ | EB/B/ Bc | "G"de d/d/d/c/ !alcoda!||
+B2"Am"A2 | EA AB | A2 Gc | "Am"BA G2 | A2 EE | AA Bc | "Am" B2 A2-|A4 :|
+!coda!
+
+
+
+
+%%vskip 0.5cm
+%%sep
+%%text Chansons diverses :
+
+X:40
+T:Pelot d'Hennebont
+R:chanson
+C:Tri Yann / Trad
+N:K = Ab
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:2/4
+L:1/8
+Q:1/4=125
+K:Fm
+F/ FF |: c>B cd | c>B AG | B>A GA | G3/ 
+F/ FF    c>B cd | c>B AG | B>A GA | G3/
+F/ FF || G>B GA | F>F FF | G>B GA | F3/
+F/ FF    G>B GA | F>F FF || !alcoda! G>B GA |
+F3/ F/ FF :| !coda!G>B GA | F4 |]
+W:Ma chère maman je vous écris
+W:Que nous sommes entrés dans Paris
+W:Que je sommes déjà Caporal
+W:Et serons bientôt Général
+W:
+W:A la bataille, je combattions
+W:Les ennemis de la nation
+W:Et tous ceux qui se présentiont
+W:A grand coups de sabres les émondions
+W:
+W:Le roi Louis m'a z'appelé
+W:C'est "sans quartier" qu'il m'a nommé
+W:Mais "sans quartier", c'est point mon nom,
+W:J'lui dit "j'm'appelle Pelot d'Hennebont"
+W:
+W:J'y aquiris un biaux ruban
+W:Et je n'sais quoi au goût d'argent
+W:Il dit boute ça sur ton habit
+W:Et combats toujours l'ennemi
+W:
+W:Faut qu'ce soye que'que chose de précieux
+W:Pour que les autres m'appellent monsieur
+W:Et foutent lou main à lou chapiau
+W:Quand ils veulent conter au Pelot
+W:
+W:Ma mère si j'meurs en combattant
+W:J'vous enverrais ce biau ruban
+W:Et vous l'foutrez à votre fusiau
+W:En souvenir du gars Pelot
+W:
+W:Dites à mon père, à mon cousin
+W:A mes amis que je vais bien
+W:Je suis leur humble serviteur
+W:Pelot qui vous embrasse le coeur
+
+
+
+X:49
+T:Pique la baleine
+R:Chanson
+C:
+N:tagafolk.abc
+Z: Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=120
+K:D
+"Bm"B B/ B/ "D"f f |"E"e e "F#"f2 |"Bm"B B B B/ B/ |"G"d B "A"c2 |
+"Bm"B B/ B/ "D"f f |"E"e e "F#"f2 |"Bm"B B B B/ B/ |"G"d "A"c "Bm"B2 |
+B/ c/ d/ B/ "A"c c |"Bm"B/ c/ d/ B/ "A"c2 |"D"f/ f/ f/ f/ "Em"f/ e/ d/ c/ |"G"d "A"c "Bm"d2 |
+B/ c/ d/ B/ "A"c c |"Bm"B/ c/ d/ B/ "A"c2 |"D"f/ f/ f/ f/ "Em"f/ e/ d/ c/ |"G"d "A"c "Bm"B2 ||
+W:Pour retrouver ma douce douce amie, Oh! mes boués ! Ouh, là ! Ouh ! là là ! (bis)
+W:Pique la baleine, joli baleinier, Pique la baleine, je veux naviguer !      (bis)
+W:
+W:Aux mille mers j'ai navigué,
+W:Oh ! mes boués ! Ouh, là ! Ouh ! là là ! (bis)
+W:
+W:Des mers du Nord aux mers du Sud.
+W:Je l'ai retrouvée que j'm'ai neyé.
+W:Dans les grands fonds, elle m'asepérait.
+W:Tous deux ensemble on a pleuré.
+W:En couple à elle je me suis couché.
+
+X:50
+T:La partance
+R:Chanson
+C:
+N:tagafolk.abc
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/4
+Q:1/2=90
+K:G
+EEF | G2B | GF2-|F3 | E>FG | F2D |
+E3-|E3 | zBB | B2A | BG2-|G3 |
+GAB | (BA)G | F3-|F3 | EBB | B2 G |
+FE2-|E3 | G/ G/-G G | F2D | E3-|E3 ||
+W:1. La journée que j'épouse, je recois commandement: 
+W:Un commandement de guerre, pour servir le roi Louis; 
+W:en sortant de l'église, m'a bien fallu partir.
+W:
+W:2. La partance a été longue, l'a bien duré sept ans. 
+W:Au bout de la septième, mon congé ils m'ont donné; 
+W:dans les bras de ma chère j'irai m'y reposer.
+W:
+W:3. La journée que j'arrive, ma femme elle se remarie. 
+W:J'arrive devant sa porte, trois petits coups j'frappa. 
+W:J'ai posé ma valise, mon or et mon arbent.
+W:
+W:4. Et les gens de la noce m'ont convié à souper, 
+W:et moi qui étais bien aise, je n'ai pas refusé; 
+W:j'ai déplacé ma chaise auprès de la mariée.
+W:
+W:5. Mais les gens de la noce se sont trouvés insultés: 
+W:"Retirez-vous, gendarme! Retirez-vous d'ici! 
+W:La mariée de ce soir, elle vous appartient pas.
+W:
+W:6. T'en souviens-tu, la belle, les rires et les serments? 
+W:T'en souviens-tu, la belle, voilà ce soir sept ans? 
+W:T'en souviens-tu, la belle que ton mari est absent?"
+W:
+W:7. La belle elle me devine, elle s'écrie en larmes: 
+W:"Par la mort de Jésus-Christ! 
+W:A c'matin j'étais veuve et c'soir j'ai deux maris!"
+
+
+
+X:1
+T:Elle a demandé à sa mère
+R:
+O:France
+S:Chansons populaires du Morvan et du Nivernais - Achille Millien, Penavaire, Delerue
+A:Morvan / Nivernais
+Z: Eric Forgeot - http://anamnese.online.fr
+M:4/4
+L:1/8
+Q:1/4=115
+K:Eb
+|: F A G B A G F E | F A G B A G F2 | F A G B A G F2 :|
+|: [M:3/4] G c B A G2 | G c B A G2 :|
+|: [M:4/4] F G A G/ F/ B A G F | F G A G/ F/ A G F2 :| 
+W:Elle a demandé à sa mère 
+W:Quand mariée elle serait (2x)
+W:Sa mère lui a fait réponse :
+W:"Dans dix ans si vous voulez... (2x)
+W:Dix ans, c'est bien long ! Dix ans, c'est trop long ! (2x)
+W:Dans dix ans, je n'attendrai guère ! Dans dix ans je n'attendrai pas ! (2x)
+W:
+W:Elle a demandé à son père
+W:(...)
+W:Dans cinq ans si vous voulez...(2x)
+W:(...)
+W:
+W:Elle a demandé à sa tante
+W:Dans deux ans si vous voulez...
+W:
+W:Elle a demandé à son oncle
+W:Dans un an si vous voulez...
+W:
+W:/.../ (soeur/1 mois) (frère/1 jour) (M'sieur l'maire / 1 heure)
+
+
+X:1
+T:Les noces des gueux
+R:
+O:France
+A:
+Z: Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=110
+K:C
+A A/ A/ c c | d d e2 | e e/ f/ d d | c B A2 |
+e e/ e/ g e | g a e2 | c d e c/ d/ | e c A2 | 
+c/ B/ A/ B/ c c | c/ B/ A/ B/ c c | d>d ed | c B A2-|A2 z2 | z4 ||
+W:L'alouette avec le merlot,
+W:Tous les deux veulent se marier. (2x)
+W:Y'a pas d'pain pour le déjeuner.
+W:
+W:  Belle jolivette, jeune jolivette
+W:  Ah mon oiseau qu'il est beau !
+W:
+W:Il est venu Maître Corbeau, sous son aile il apporte un flûtiaux :
+W:"Pour du pain, vous en aurez bien, pour d'la viande, vous n'en aurez point !"
+
+
+X:1
+T:Mes burons sont morts
+R:Berceuse
+O:France
+A:Berry
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:1/4=60
+K:D
+B f f e f2 | c e d c d/c/B | B f f e f2 | c e d c B2 |
+^A B c B c2 | c e d c d B | ^A B c B c2 | c e d c B2 | 
+W:Mes burons sont morts, raides, raides, raides
+W:Mes burons sont morts, raides, raides morts.
+W:
+W:Y'en a plus que deux, qui suivront leur mère,
+W:Y'en a plus que deux, qui sont vigoureux.
+
+
+X:1
+T:La rose et le rosier
+R:Rond d'Argenton
+O:France
+A:Bretagne
+S:Emile Barbillat / Laurian Touraine
+Z: Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=150
+K:F
+B>A | G>A B>c | A>A B>A | G>A B>c | A2 B>A | 
+      G>A B>c | A>A B>A | G>A B>c | A2 B>A |
+      G>B A>G | F>F D>E | F>G A>B | 
+      G>B A>B | (3GAB A>G | F>F D>E | F>G A>B | 
+      G>B A>B | (3GAB A>G | F>F D>E | F>G A>B | G2 z2 ||
+W:Y'a un long voyage à faire je ne sais qui le fera 
+W:rossignol du vert bocage m'a promis qu'il le fera
+W: 
+W:  tenez la belle voilà la rose mais le rosier n'y est pas (2x)
+W: 
+W:Rossignol y prend son vol au château d'amour s'en va
+W:Il trouva la porte fermée par la fenêtre il entra
+W:Il trouva trois dames à table poliment les salua
+W:Bonjour l'une l'une et bonjour l'autre bonjour mamzelle que voilà
+W:Votre amant m'envoie vous dire que vous ne l'oubliez pas
+W:J'en ai bien oublié d'autres j'oublierai bien celui là
+W:S'il était venu lui-même il aurait gagné ses pas
+W:Nous aurions soupé ensemble mais nous n'y souperons pas
+W:Nous aurions bien fait des choses que je ne vous dirai pas
+W:
+W:  tenez la belle voilà la rose mais le rosier n'y est pas (2x)
+
+X:39
+T:J'ai une méchante mère
+R:
+N:
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:2/4
+L:1/8
+Q:1/4=122
+K:F
+A>d d>e | e>d (3AAA | d2 e>d | A>d d>d | e>d A A |
+[M:3/4] d2c4 | [M:2/4] A>d d>e | e>d (3AAA | d2 e>d | A>d d>d | e>d A A |
+[M:3/4] d2c4 | [M:2/4] d>d c>c | f>e d2 | d>d c>c | [M:3/4] f>e d4 ||
+W:J'ai une méchante mère, ma dondaine,
+
+X:39
+T:Déjà mal mariée, déjà
+R:
+N:
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:3/4
+L:1/8
+Q:1/4=140
+K:A
+C C F | [M:2/4] F3E | C3C | F>G A F | [M:3/4] E2 F C C F | 
+        [M:2/4] F3E | C3C | F>G A F | [M:3/4] E2 F F F G |
+        [M:2/4] A2A2 | G3G | F>G A F | E E C2 | C>F F F | 
+E E C2 | C>F F F | E2F2 | C>F F F | E E C2 | C>F F F | [M:3/4] E2 Fz/z2 ||
+W:Mon père m'a mariée à un tailleur de pierre, (2x)
+W:Le lendemain d'mes noces m'envoie à la carrière - là !
+W:
+W:Déjà mal mariée déjà, déjà mal mariée djé ! (2x)
+
+X:97
+T:Le deuil d'amour
+R:Bourrée
+%O:France
+N:tagafolk.abc
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:2/4
+L:1/8
+Q:1/2=110
+K:F
+F | D > E F G | A3 A | B > A GA | FE D F |
+    D > E F G | A3 A | B > A GA | FE D A |
+A2 d2 | A3 A | B > A G F | E3 F | G2 B2 | A > G F E | D3 z ||
+
+X:97
+T:Le jet du Lama
+R:Chapelloise
+O:France
+C:Philippe Plard
+D:Vag
+N:
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:C
+L:1/8
+Q:1/4=110
+K:C
+"Am" e/f/e/d/ cA B^G A2 | "F" c/d/c/B/ A^G AB cA |  
+"Am" e/f/e/d/ cA B^G A2 | "Dm" A/B/A/G/ FD EF E2 :|
+"E" ^GE "Dm"DE F/E/D "E"E2 | ^GE "Dm"DE FF "E" E2 | 
+    ^GE "Dm"DE F/E/D "E"E2 | "G#"^DE "F"F^F "G"G^G "Am"A4 :|
+
+X:6
+T:Danse des Jardiniers
+R:
+S:
+N:noté [M:3/4] BA G3 C2 |
+A:Champagne ?
+G:
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=135
+K:F
+c |: Ac Gc | F2-F c | Ac Gc | F2-F C | FG AB | c2d2 | [M:3/4] BA G3 C | 
+[M:2/4] FG AB | c2d2 | cB AG |1 F3 c :|2 F3 Hf3 ||
+
+X:39
+T:La jalousie est cause
+R:
+N:
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:2/4
+L:1/8
+Q:1/4=125
+K:Db
+K:Bbm
+%%MIDI ratio 2 1
+F | B>B c>c | d2 c>c | B>B c>d | c3F |
+    B>B c>c | d2 c>c | B>B c>d | c3c |
+    f>e d>c | B2 B>B | e>d c>B | F3F |
+    B>B c>d | A>A d2 | c>B B>=A| B3F |
+    B>B c>d | A>A d2 | c>B B>=A| B3z ||
+W:Derrière la fontenelle, près d'un ruisseau coulant (2x)
+W:Il y a trois demoiselles qui s'en vont en disant :
+W:
+W:   "La jalousie est cause que l'on vit en tourments !" (2x)
+
+X:39
+T:La jalousie est cause
+R:
+N:
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:2/4
+L:1/8
+Q:1/4=125
+K:Db
+K:Bbm
+F | (3B-BB (3c-cc | d2 (3c-cc | (3B-BB (3c-cd | c3F |
+    (3B-BB (3c-cc | d2 (3c-cc | (3B-BB (3c-cd | c3c |
+    (3f-fe (3d-dc | B2 (3B-BB | (3e-ed (3c-cB | F3F |
+    (3B-BB (3c-cd | (3A-AA d2 | (3c-cB (3B-B=A| B3F |
+    (3B-BB (3c-cd | (3A-AA d2 | (3c-cB (3B-B=A| B3z ||
+W:Derrière la fontenelle, près d'un ruisseau coulant (2x)
+W:Il y a trois demoiselles qui s'en vont en disant :
+W:
+W:   "La jalousie est cause que l'on vit en tourments !" (2x)
+
+X:40
+T:La jalousie est cause
+R:
+N:
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:2/4
+L:1/8
+Q:1/4=125
+K:Bbm
+F | (3::2B2B (3::2c2c | d2 (3::2c2c | (3::2B2B (3::2c2d | c3F |
+    (3::2B2B (3::2c2c | d2 (3::2c2c | (3::2B2B (3::2c2d | c3c |
+    (3::2f2e (3::2d2c | B2 (3::2B2B | (3::2e2d (3::2c2B | F3F |
+    (3::2B2B (3::2c2d | (3::2A2A d2 | (3::2c2B (3::2B2=A| B3F |
+    (3::2B2B (3::2c2d | (3::2A2A d2 | (3::2c2B (3::2B2=A| B3z ||
+W:Derrière la fontenelle, près d'un ruisseau coulant (2x)
+W:Il y a trois demoiselles qui s'en vont en disant :
+W:
+W:   "La jalousie est cause que l'on vit en tourments !" (2x)
+
+
+
+X:39
+T:La caille
+R:
+N:
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:3/8
+L:1/8
+Q:1/4=135
+K:Bb
+D |: G/ ^F/ G A | B G d | d c2 |1 d2 D :|2 
+d2 e | d c2 | A/ B/ c d | c B2 | G2 B | A D2 | G2 z ||
+W:O caille, o ma caille où est ton nid ? (2x)
+W:Où est ton nid ma belle où est ton nid ? Où est ton nid ?
+W:
+W:Là-bas dans la prairie, près du ruisseau (2x)
+W:Près du ruisseau ma belle
+W:Près du ruisseau. (2x)
+
+X:39
+T:Je voudrais être mariée
+R:
+N:
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:6/4
+L:1/4
+Q:1/4=125
+K:G
+|: EFGE2F | D3B,3 | EFGA2B | F6 :|
+   GFED2C | B,3E3 | EFGE2D | E3-E2 B, |
+   E3EFE | D2C B,3 | EFGE2D | E6 ||
+W:Je voudrais être mariée,
+W:J'irais p't'être plus aux champs (2x)
+W:Voilà la belle mariée,
+W:Elle va toujours aux champs
+W:
+W:Adieu nos amourettes, adieu donc pour longtemps.
+
+
+X:39
+T:Chant du glaive
+R:
+N:
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+N:p 92
+M:2/4
+L:1/8
+Q:1/4=130
+K:A
+K:F#m
+c c B c | F F F F | c c B c | F2 z2 | 
+G G F G | C C C C | G G F G | C2 z2 |
+F2 A2 | F A G2 | G A B c | F F F2 |
+F2 A2 | F A G2 | G A B c | F2 z2 ||
+W: 1. Vive le vieux vin de vigne, Le vieux vin gaulois ! (2x)
+W: 
+W:   Tan! Tan! Terre et ciel ! Chêne, feu rouge et soleil
+W:   Tan! Tan! Glaive clair, Flots de sang vermeil ! 
+W: 
+W: 2. Mieux que bière ou vin de pommes Mieux vaut vin gaulois !
+W: 3. C'est le sang gaulois qui coule, C'est le sang gaulois !
+W: 4. Sang et vin mêlés ruissèlent Sang et vin gaulois !
+W: 5. Chant du glaive bleu qui frappe Chant du glaive roi !
+W: 6. Glaive, maître des batailles, Glaive, honneur à toi!
+W: 7. Qu'au soleil le fer flamboie Comme l'arc-en-ciel!
+c c B c | F F F F | c c B c | F2 z2 | 
+G G F G | C C C C | G G F G | C2 z2 |
+F2 C2 | F C E2 | F E D C | D D A,2 |
+F2 C2 | F C E2 | F E D C | F2 z2 ||
+W:
+W: (variante de paroles)
+W:Pour des luttes téméraires, Ils partaient joyeux,
+W:Par ce rude chant de guerre Invoquaient leurs dieux :
+W:Tann, tann, dir o dir, Nous les Celtes de l'Armor,
+W:Tann, tann, dir o dir, Nous vaincrons encor.
+
+
+
+X:39
+T:Les soucis du ménage
+R:
+N:
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:3/4
+L:1/8
+Q:1/4=90
+K:Bb
+D | G2B2 AB | G2 ^F zD | G2B2 A B |
+[M:2/4] G2 zG | d d/ d/ e d | c B A B |
+ c d f=e | d4 | d d/ d/ e d | c B G G | 
+ A A d d | [M:3/4] BA G4 ||
+
+X:39
+T:Derrière chez nous y'a un étang
+R:
+N:
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:6/8
+L:1/8
+Q:1/4=90
+K:Bb
+D | G2 A B3 | B c B A2 D | G2 A B3 | B c B A3 |
+z2 A A2 A | B2 G G2 G | F2 D G2 B | A2 G ^F3 |
+D3 z2 D | G2 A B3 | B c B A2 G/ A/ | B2 A G2 {A/G/}^F | G3 z2 z ||
+W:Derrière chez nous, y'a un étang,
+W:Dedans mon coeur, y'a un amant,
+W:Trois beaux canards y vont nageant.
+W:
+W:   Y'a pas d'amour sans peine,
+W:   Dedans mon coeur, y'a un amant,
+W:   Je ne sais s'il m'aime.
+W:
+W:Trois beaux canards y vont nageant.
+W:Dedans mon coeur, y'a un amant,
+W:Le fils du roi y va chassant.
+
+
+
+
+X:1
+T:Le corsaire "le Grand Coureur"
+R:chant marin
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/8
+Q:1/4=60
+K:F
+F E |: D A A G | A2 F E :| D A A G | A2 F E | 
+A2 A A | A3 c | B3 A | G2 E F | G>B A F | 
+D>D D F | A2 F2 | D>D D F | A2 F2 | E2 z2 ||
+W:Le corsaire le Grand Coureur / Est un navire de malheur 
+W:Quand il s'en va croisière / Pour aller chasser l'Anglais 
+W:Le vent, la mer et la  guerre 
+W:Tournent contre le Français. 
+W:Allons les gars gai, gai 
+W:Allons les gars gaiement! 
+W:
+W:Il est parti de Lorient 
+W:Avec mer belle et bon vent 
+W:Il cinglait babord amure 
+W:Naviguant comme un poisson 
+W:Un grain tombe sur sa mature 
+W:v'la le corsaire en ponton. 
+W:/.../
+
+
+X:3
+T:Le prince d'Orange
+R:Chanson
+N:je ne suis pas du tout certain des notes et du rythme... (révision pour plus tard...)
+D:Pierre de Grenoble (Malicorne)
+O:France
+Z:transcription (d'oreille sauf les paroles) :  Eric Forgeot - http://anamnese.online.fr
+M:4/4
+L:1/8
+Q:1/4=110
+K:Bb
+V:1
+d |: B c>B A G2 Gd | B c>B A G3 F |\
+    BB cc d2 dc | Bd cB A3 d |\
+     dd dd d>B Bc| B2 A2 G4 | z4 z3 d :|
+V:2
+D |: B, C>C C D2 DD | B, C>C C D3 C|\
+    DD FF G2 GF | DG GG D3 G,|\
+    G,G,G,G,G,>G,G,G,| D2 E2 D4 | z4 z3 D :|
+V:3 %je suis encore moins sûr de la troisième voix que du reste...
+d' |: b c'>b a g2 gd'| b c'>b a g3 f |\
+    dd ff g2 gf | dg gg d3 G |\
+    GGGGG>GGG | d2 e2 d4 | z4 z3 d :|
+W: C'est le Prince d'Orange, tôt matin s'est levé
+W: Est allé voir son page, va seller mon coursier
+W: QUE MAUDIT SOIT LA GUERRE !
+W: Va seller mon coursier
+W: Mon beau Prince d'Orange, où voulez vous aller
+W: QUE MAUDIT SOIT LA GUERRE !
+W: Je veux aller en France où le roi m'a mandé
+W: QUE MAUDIT SOIT LA GUERRE !
+W: Mit la main sur la bride, le pied dans l'étrier
+W: QUE MAUDIT SOIT LA GUERRE !
+W: Je partis sain et sauf et j'en revins blessé
+W: QUE MAUDIT SOIT LA GUERRE !
+W: De trois grands coups de lance, qu'un Anglais m'a donnés
+W: QUE MAUDIT SOIT LA GUERRE !
+W: J'en ai un à l'épaule et l'autre à mon côté
+W: QUE MAUDIT SOIT LA GUERRE !
+W: Un autre à la mamelle, on dit que j'en mourrai
+W: QUE MAUDIT SOIT LA GUERRE !
+W: Le beau Prince d'Orange est mort est enterré
+W: QUE MAUDIT SOIT LA GUERRE !
+W: L'ai vu porter en terre par quatre Cordeliers
+W: QUE MAUDIT SOIT LA GUERRE !
+W: Par quatre Cordeliers.
+
+X:4
+T:Les 180 pucelles
+D:La Bamboche - Quintessence
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:4/4
+L:1/8
+Q:1/4=110
+K:G
+%%staves (1 2)
+V:1
+E>A B>c B3 A/B/ | c2 B>A B4 |
+ E>A B>c B2-B>c | B>A G>B F2 E>c |
+ B>A G>B F2 E2 :|
+V:2
+z2 .E<z .E<z .E<z |.E<z .E<z .E<z E2 |
+z2 .E<z .E<z .E<z |.E<z z2 A2 B>z |
+.E<z z2 A2 B2 :|
+W:A Rouen il y a 
+W:Ligetra tralala
+W:A Rouen il y a 
+W:Cent quatre vingt pucelles (2x)
+W:Et elles danse-tèrent tôt / Dessus un pont de verre 
+W:Le verre cassa / Et l'on tombi par terre
+W:Par ici passa / Le beau roi d'Angleterre
+W:Les salua toutes / Hormis la plus belle
+W:Tu ne m'as pas saluée / Maudit roi d'Angleterre
+W:Je ne te salue pas / Car tu n'es plus pucelle
+W:A quoi vois-tu ça / Maudit roi d'angleterre ?
+W:A tes cheveux blonds / A ta bouche vermeille
+W:A tes beau yeux bleux / Tes yeux couleur de ciel 
+W: /???/
+W:Au premier coup frappé / Le roi tombi par terre
+W:Maudit roi est mort / Nous n'aurons plus de guerre
+
+X:5
+T:Amis, buvons !
+R:
+C:
+H:
+N:La fin de ce morceau dans le disque est basée sur le branle nommé Cassandre d'Arbeau.
+D:La Bamboche - Quintessence
+O:France
+A:
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:C
+L:1/4
+Q:1/4=120
+K:D 
+%%MIDI transpose 0
+B B/B/ A>A | A/>B/ A/G/ F2 | B B/B/ A G/F/ | GA B2 |
+B/B/ A/B/ d>d | A/A/ G/A/ B2 | B/B/ A/B/ G/>G/ B/B/ | A B E2 |
+E/F/ G/E/ B c/e/ | d c B2 ||
+W:          Amis buvons, mes chers amis buvons,
+W:          Mais n'y perdons jamais la raison,
+W:          À force d'y boire on perd la mémoire
+W:          On va titubant le soir à tâtons
+W:          Et on court les rues à sauts de mouton.
+W:
+W:J'en ai tant bu de ce bon vin nouveau, 
+W:Qu'il m'a troublé l'esprit du cerveau,
+W:Avant que je meure, donnez moi sur l'heure,
+W:De ce bon vin blanc qui brille dans mon verre,
+W:Et qui fait chanter tous les amants sur terre.
+W:
+W: [refrain]
+W:
+W:Ah si jamais je vais dedans les cieux,
+W:Je m'y battrai avec le bon dieu,
+W:A grands coups de lance, tapant sur les anges,
+W:Je leur ferai voir, que c'est mon devoir,
+W:De boire du vin du matin au soir.
+W:
+W:Ah si jamais je vais dedans l'enfer,
+W:Je m'y battrai avec lucifer
+W:A grands coups de sabre, pour tuer le diable
+W:Je lui ferai voir, que c'est mon devoir,
+W:De boire du vin du matin au soir.
+
+X:6
+T:La chasse
+R:Chanson
+N:
+D:(Malicorne)
+O:France
+Z:transcription (d'oreille) :  Eric Forgeot - http://anamnese.online.fr
+M:4/4
+L:1/8
+Q:1/4=115
+K:G
+B | e2 (3fga (3b-bg f2 | (3efg (3fed (3ed^c (3d^cB |
+    e2 (3fga (3b-bg f2 | (3efg (3fed e3 f |
+(3f-ff (3bbb (3a-ag f2 | (3gab (3d'-d'^c' b2-b B |
+    e2 (3fga (3b-bg f2 | (3efg (3fed e3. B |
+    e2 (3fga (3b-bg f2 | (3efg (3e-ed e3 B |
+    e2 (3fga (3b-bg f2 | (3efg (3e-ed e3 f |
+(3f-ff (3bbb (3a-ag f2 | (3gab (3d'-d'^c' b2-b B |
+    e2 (3fga (3b-bg f2 | (3efg (3e-ed e3. z |
+W:Oh que la chasse est belle, quand il y a de l'amour
+W:Auprès de sa maîtresse, assis sur ses genoux
+W:En lui disant la belle, mignonne embrassez-moi,
+W:Permettez-moi la chasse, partout dans vos endroits
+W:
+W:Monsieur répond la belle je ne sais refuser,
+W:Mes terres, mes domaines vous pouvez y chassez,
+W:Allons prenez vos armes, faites le tour du bois,
+W:Je vous permets la chasse, partout dans mes endroits
+W:
+W:Je suis chasseur habile, à tirer mon fusil
+W:Le chien de ma platine, il fait feu jour et nuit
+W:Mon chien chasse le lièvre et moi la perdrix
+W:Embrassons-nous la belle, je serai votre ami
+W:
+W:Chassons, chassons ensemble la nuit comme le jour,
+W:Le lièvre aussi la caille et le gibier d'amour,
+W:Chasseur frappe la pierre, ton fusil partira
+W:De trou de la lumière il se débouchera.
+
+X:7
+T:La chasse (transp.)
+R:Chanson
+N:
+D:(Malicorne)
+O:France
+Z:transcription (d'oreille) :  Eric Forgeot - http://anamnese.online.fr
+M:4/4
+L:1/8
+Q:1/4=120
+K:C % transposed from G
+E | A2 (3Bcd (3e-ec B2|(3ABc (3BAG (3AG^F (3G^FE|
+    A2 (3Bcd (3e-ec B2|(3ABc (3BAG A2 B2|
+(3B-BB (3eee (3d-dc B2|(3cde (3g-g^f e2-e E|
+    A2 (3Bcd (3e-ec B2|(3ABc (3BAG A3. E|
+    A2 (3Bcd (3e-ec B2|(3ABc (3A-AG A3 E|
+    A2 (3Bcd (3e-ec B2|(3ABc (3A-AG A3 B|
+(3B-BB (3eee (3d-dc B2|(3cde (3g-g^f e2-e E|
+    A2 (3Bcd (3e-ec B2|(3ABc (3A-AG A3. z|
+W:Mêmes paroles que le précédent.
+
+X:8
+T:Tous près de ma fenêtre
+R:Chanson
+C:
+S:Achille Millien : Chansons populaires du Nivernais et du Morvan. (vol. 4 ?)
+H:
+N:sur le disque la voix est 1/2 ton plus grave
+D:
+D:Catherine Paris "A.Millien - Le pommier doux"
+O:France
+A:Centre France (Nivernais)
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:7/8
+L:1/8
+Q:1/4=124
+K:Eb 
+ G | Gc cB G>F Gc cB G3 :: [M:C] E | FA GF E>D CE FA G>F E3 :| Hz4 ||
+W:Tout près de ma fenêtre, Tout proche de mon lit, (bis)
+W:Le rossignol y chante, Pour qui chante-t-il ? (bis)
+W:
+W:Il chante pour les filles Qui n'ont point d'amis. Il chante pas pour moi Car j'en ai un joli.
+W:Il est à ma main droite, Voyez comme il rit, Je crois qu'il en a d'autres, Je crois qu'il en rougit.
+W:Il a qu'faire d'avoir honte, J'en ai bien d'aut' que lui. J'en ai encore un autre, Il est bien plus joli.
+
+%%vskip 0.5cm
+%%sep
+%%text Divers :
+
+
+X: 3
+T:Scottishe de Besançon
+T:Scottishe à deux tons ?
+T:Scottish à Kerbeuf ?
+T:Scottishe à Dédé
+R:Scottiche
+O:France
+D:voir La Mirlitantouille
+Z: Eric Forgeot - http://anamnese.online.fr
+N:tagafolk.abc (version légèrement différente)
+M:4/4
+L:1/8
+Q:1/4=206
+K:G
+|: D2G2 B2A2 | FGFE D4 | FGAB AGFG | ABcA B2G2 |\
+D2G2 B2G2 | FGFE D4 | FGAB AGFG | ABAF G4 :||:
+K:F
+G2B2 d2B2 | ABAG A4 | ABcB AGFG | A2B2A2G2 |\
+G2B2 d2B2 | ABAG A4 | ABcB AGFG | A2B2G4 :|
+
+
+X:11
+T:Valse à Manu
+R:Valse
+C:Manuel Murcia
+H:
+N:
+B:Diatonisch Nieuwsblad n°14 (fév 1988)
+D:Maluzerne
+O:France
+A:
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:3/4
+L:1/4
+Q:3/4=78
+K:C
+P:[A]
+f/ a/f/ |: e2c | A>f a/f/ | e2c | A>c A/c/ | BdG |1-3 B/G/ d/G/ g/d/ | [c2e2] A |
+A>f a/f/ :|2 g/d/ B/g/ d/B/ | c2 A | A>f a/f/ :|4 g/d/ B/g/ d/B/ | c2 A | A3 
+P:[B]
+|: b2 a | aba |1-3 c'2b | bc'b :|2-4 e'2d' | e'd'd' :| 
+P:[C]
+e b/e/ c'/e/ | d'e'c' |1-3 b2a | agf :|2 a3 | agf :|4 a2 g | a3 ||
+
+
+
+
+X:9
+T:Valse de Costebelle
+R:Valse
+N:
+D:
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/4
+Q:1/4=170
+K:C 
+"Am"A2c | e3 | "F"f2a | "Am"e3  | "G"ddc |    B2d | "E"c2B | "Am"A3 ::
+"Am"A3  | c3 | "G"Bgd | B3  | "C" e3-|e3 | "D"dcd | "E"e3  | 
+"Am"A2c | e3 | "F"f2a | "G"g3   |    ddc | B2d | "C"c2"E"B | "Am"A3 |
+"G"g/d/ B/g/ d/B/ | "Am"Ace | "G" g/d/ B/g/ d/B/  | "Am"A3 :|
+
+
+X:17
+T:Plantons la vigne
+R:
+S:
+N: - p. 46
+N:
+B:Deutsch-Französisches Liederbuch
+O:Champagne
+A:Châlons sur Marne
+Z: Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=130
+K:D
+A2 AA | B2 B B/c/ | dd dc | B2 AA | FA EA | DD D |: D/E/ |
+FF AF |1 EE D :|2 ED |]
+
+X:18
+T:Tourdion
+R:
+S:
+N: - p. 48
+N: publié par Pierre Attaignant
+B:Deutsch-Französisches Liederbuch
+O:
+A:
+Z: Eric Forgeot - http://anamnese.online.fr
+M:3/2
+L:1/4
+Q:1/4=130
+K:D
+V:1
+EFGAGF | E3 FGA | BAG GAF | (G2FE)D2 | EFGAGF | E2G2F2 | E4 D2 | E6 :|
+: B3 ABc | B4 B2 | dcBAGF | (G3F) E2 | B3 ABc | B2A GF2 | E4 D2 | E6 :]
+V:2
+B,4 B,2 | E4 E2 | D2-D2 E2 | E2 A4 | G4 E2 | B,A,B,CD2 | B,2 B,4 | B,6 :|
+G4 G2 | G4 G2 | F4 F2 | E4 E2 | D4 D2 | D4 D2 | B,2 B,4 | B,4 B,2 :]
+V:3
+K:D bass
+G4 E2 | B4 B2 | B2-B2 =c2 |
+
+X:19
+T:Entre le boeuf et l'âne gris
+R:chanson
+M:4/4
+L:1/4
+Q:2/4=100
+Z: Eric Forgeot - http://anamnese.online.fr
+K:F
+D D/E/FD|AAA2|d2 A2|A/G/F/G/A2|
+D/E/F/G/G2|A/G/F/E/D2|D/E/F/G/A/F/G/A/|FED2 :|
+
+X:20
+T:Guillau prend ton tambourin
+R:chanson
+M:4/4
+L:1/4
+Q:2/4=100
+Z: Eric Forgeot - http://anamnese.online.fr
+K:Bb
+GG|ddcd|BA/B/cA|d2B2|A2AB|A^FGA|B2G/A/B/c/|d2c/d/c/B/|
+A2AB|A^FGA|BA/B/cA|d2A2|G4 :|
+
+X:21
+T:La voyageuse
+R:matelotte
+N:
+O:France
+A:Toulon
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:2/4
+L:1/8
+Q:1/4=120
+K:F
+c/>=B/c/>a/ ff | g/>f/e/>d/ ca | c/>=B/c/>a/ ff | e/>c/d/>e/ f2 ::
+c/=B/_B/G/ FA | G/>A/B/>G/ dc | c/=B/_B/G/ FA | G/>c/d/>e/ f2 ::
+BF dB | (6f/e/d/c/B/c/ gf | BF dB | (6f/e/d/c/d/c/ B2 :|
+
+
+
+X:13
+T:Mazurka d'Embrault
+T:Fubu's Mazurka
+R:Mazurka
+C:Thierry Mirebeau
+D:Fubu
+O:France
+M:3/4
+L:1/8
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+Q:1/4=147
+K:A
+|: AB c2 cB | AG F3 E | Bcd EEE/E/ | dB c2 A2 |
+   AB c2 cB | AG F3 E | Bcd EEE/E/ |1 BG A4 :|2 BG A3 E |
+|: FG A2 AB |=ce d3 e | dB=c AEA | =cAB GEG |
+   BG A2 AB |=ce d3 e | dB=c AEG/A/ |1 BGA3 E :|2 BGA3 z |]
+
+X:13
+T:Boulevard Garibaldi
+C:Thierry Mirebeau
+R:Bourrée 2 temps
+D:Fubu
+O:France
+M:2/4
+L:1/8
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+Q:1/4=130
+K:G
+G>A Bd | c/d/c/B/ Ac | B>A GA | A/G/F/G/ A2 |
+G>A Bd | c/d/c/B/ Ac | BG AF | A4 :|
+|: A>B cA | B/c/B/A/ G2 | A>
+
+
+
+
+X:13
+T:La pointe du jour*
+O:
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:3/4
+L:1/8
+Q:1/4=160
+K:C
+A | c2 AB3 E^F^G A2 A | c2 AB3 E^F^G A2 A |
+    c2 AB3 E^F^G A2 A | c2AB3 E^F^G A3 |
+AA2B c2 ce2cc2 | ce2cc2ed2cB4
+A | c2AB3 E^F^G A2 A | c2AB3 E^F^G A3 |
+W:C'est dans Paris y'a une brune, reste à savoir si je l'aurai (2x)
+W:Oui je l'aurai quoi qu'il m'en coûte, le rossignol prit sa volée
+W:
+W:La pointe du jour arrive arrive, les gens du jour arriveront (2x)
+W:
+
+
+
+
+X:13
+T:Laridé
+R:Laridé
+O:France
+S:Renan Robert
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:2/4
+L:1/8
+Q:1/4=163
+K:G
+|: E>G B>c B>A G2 G>F E>F (3GFE F2 
+E>G B>c B>A G2 G>B F>A F>G E2 :||:
+E2F2 G2A2 A>c B>A G>A B2
+E2F2 G2A2 A>c B>A G>F E2 :|
+
+
+
+
+X:8
+T:Tes petits sabots
+R:
+N:une partition donne à la 3ème mesure : F/ F/ F/ F/ c c/ c/
+D:
+O:France
+Z:  Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/4=120
+K:F
+|: F F/ F/ c c | B A G2 | F/ G/ A/ B/ c d/ c/ | B A G2 :||:
+F/ G/ A/ G/ F A/ G/ | F E/ F/ G G | F/ G/ A/ G/ F A/ G/ | F E F2 :||
+W:Derrière chez nous y'a un étang, Tes petits sabots sont de bois tout blanc (2x)
+W:Tes petits sabots sont de bois, ma mignonne, Tes petits sabots sont de bois tout blanc
+W:
+W:Trois beaux canards s'y vont baignant, ...
+W:Y'en a deux noirs, y'en a un blanc
+W:Le fils du roi s'en va chassant, ...
+W:Avec son beau fusil d'argent
+W:Visa le noir, tua le blanc
+W:Oh ! Fils du roi tu es méchant ! ...
+W:Tu as tué mon canard blanc, ...
+
+
+
+X:8
+T:La fille à la rivière
+R:Ronde
+A:Bretagne
+N:
+D:
+O:France
+Z:  Eric Forgeot - http://anamnese.online.fr
+M:6/8
+L:1/8
+Q:1/4=160
+K:F
+c | c2 d A2 B | c3 c2 c | c2 d A2 B | c3-c z c | c2 d A2 B | c3-c z z |
+F3 G2 G | c2 c A2 A | G A B A2 G | F3 C z z | F3 G2 G | c2 c A2 A | G A B A2 G | F3-F zz ||
+W:Quand j'étais chez mon père, Petite à la maison
+
+
+X:8
+T:La fourmi et la sauterelle
+R:
+A:
+N:p 209
+D:
+O:France
+Z:  Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/4
+Q:1/4=130
+K:F
+V:1
+F>G E | F3 | F A B | c2 d | c2 B | A2 G | 
+F>G E | F3 | A A B | G c2 | =B2 c | c3 | 
+c d e | f2 c | (dc) B | (c>B) A | c B A | G A2 | E2 F | G2 C | F>G E | F3 ||
+V:2
+F>G E | F3 | C F G | A2 B | 
+
+
+X:8
+T:Les archers du Roi
+R:
+A:
+N:p 25
+D:
+O:France
+Z:  Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/4
+Q:1/4=130
+K:Bb
+K:Gm
+%%staves (1 2)
+V:1
+G2 G | d2 d | c2 d | B3 | B2 A | G2 B | A2 G | (^F2D) |
+G2 G | d2 d | c2 d | B3 | c3 | d3 | A B A | (A3 |G) z z ||
+V:2 
+G2 G | ^F2 D | =E2 ^F | G3 | G2 =F | _E2 D | C2 E | (D2 D) |
+G2 G | ^F2 D | =E2 ^F | G3 | _E3  |  B,3 | EDC | (D3 | G) x x ||  
+W:Les archers du roi s'en vont, Ils chevauchent par la ville,
+W:Bons bourgeois en vos maisons, Dormez, dormez tranquilles
+W:Cachez-vous, mausvais garçons, Lorsque les archers s'avancent,
+W:Vous pourriez, à Montfaucon, Finir sur la potence.
+
+X:8
+T:La dame blanche
+R:
+A:
+N:p 72
+C:D'après Boieldieu - Paroles R. Vieuxblé
+O:France
+Z:  Eric Forgeot - http://anamnese.online.fr
+M:C
+L:1/4
+Q:1/4=120
+K:C
+%%staves [1 2]
+V:1
+G | ccce | eG2G | dddf | fG2G |  
+w: O | vois sur la tou-|rel-le, La | blan-che Da-moi-|sel-le, Sous |
+w:Ce | châ-teau du si-|len-ce, Qui | vers le ciel s'é-|lan-ce, Peut-|
+Geee | e2AA | Addd | d2GG | 
+w:la lu-ne qui | luit El-le | va, mou-vant fan-|tô-mes. Ren-|
+w:êtr(e) est le ré-|duit D'affreux | lutins et de | gnô-mes. Ren-|
+Geee | f2f e/d/ | dc2B | c3 ||
+w:trons, ren-trons, Guil-|lau-me Bien~ | froid(e) est la | nuit |
+w:trons, ren-trons, Guil-|lau-me Bien~ | froid(e) est la | nuit |
+V:2
+z | z2zG | ccce | G2GG | dddf | 
+w:  O | vois sur la tou-|rel-le, La | blanche Da-moi-|
+w:  Ce | châ-teau du si-|len-ce, Qui | vers le ciel s'é-|
+G2GG | AEAG | F2FF | GDGF |
+w:sel-le, Voy-|ez ce blanc fan-|tô-mes. Ren-|trons, ren-trons, Guil-|
+w:lan-ce, est | le ré-duit de | gnô-mes Ren-|trons, ren-trons, Guil-|
+Ecc_B | A3 G/F/ | FE2D | C3 ||
+w:laum(e) Ah! oui ren-|trons Bien~ | froid(e) est la | nuit |
+w:laum(e) Ah! oui ren-|trons Bien~ | froid(e) est la | nuit |
+
+
+X:8
+T:Margot, labourez les vignes
+R:
+A:
+N:p 72
+S:publié en 1554 par Le Roy et Balard
+O:France
+Z:  Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/8
+Q:1/8=130
+K:F
+%%staves [1 2]
+V:1
+A c | B A G F | E C F C | F C F G | A2 A c | B A G F |
+w:Mar-got, | la-bou-rez les | vi-gnes, vi-gnes, |  vi-gnes, vi-gne-|lot Mar-got,| la-bou-rez les |
+E F G2 |F2 || F F | c c c c | d d c2 | A2 A c | B A G F | 
+w: vi-gnes bien-tôt |
+E C F C | F C F G | A2 A c | B A G F | E F G2 |F2 ||
+V:2
+F A | G F E D | C C F2 | c2 C2 | F2 F C | C D E F | 
+w:Mar-got, | la-bou-rez les | vi-gnes, Mar-| got, Mar-| got, Mar-got,|la-bou-rez les |
+G A B2 | A2 || F F | A G F E | D D E2 | F2 F A | G F E D | 
+w: vi-gnes bien-tôt 
+C C F2 | c2 C2 | F2 G C | C D E F | G A B2 | A2 ||
+W:Margot, labourez les vignes, vignes, vignes, vignelot
+W:Margot, labourez les vignes bientôt.
+W:
+W:En revenant de Lorraine, Margot, 
+W:Rencontrai trois capitaires
+W:vignes, vignes, vignelot, 
+W:Margot, labourez les vignes bientôt.
+W:
+W:Rencontrai trois capitaires, Margot,
+W:Ils m'ont saluée vilaine
+W:vignes, vignes, vignelot, 
+W:Margot, labourez les vignes bientôt.
+W:
+W:Ils m'ont saluée vilaine
+W:Je suis leur fièvre quartaine
+W:vignes, vignes, vignelot, 
+W:Margot, labourez les vignes bientôt.
+
+X:8
+T:Rusé Renard
+R:Canon à trois voix
+A:
+N:p 31
+S:extrait d'un recueil du XVIème s.
+O:France
+Z: Eric Forgeot - http://anamnese.online.fr
+M:2/4
+L:1/4
+Q:1/8=130
+K:C
+P:A
+E | C D | C E | C D | C
+w:Ru-|sé Re-|nard est | un sour-| nois,
+P:'B
+G | G F | E G | G F | E
+w:A | la ga-|renne il | faut qu'il | vienne
+P:'C
+c | e B | c c | e B | c ||
+w:Em-|bus-quons |nous, tirons-|le | tous. |
+%
+%
+%
+T:Rusé Renard (canon)
+%%staves [1 2 3]
+V:1
+E | C D | C E | C D | C G | G F | E G | G F | E c | e B | c c | e B | c E | C D | C E | C D | C G | G F | E G | G F | E ||
+V:2
+z | z2  |  z2 |  z2 | z E | C D | C E | C D | C G | G F | E G | G F | E c | e B | c c | e B | c E | C D | C E | C D | C ||
+V:3
+z | z2  |  z2 |  z2 |  z2 |  z2 |  z2 |  z2 | z E | C D | C E | C D | C G | G F | E G | G F | E c | e B | c c | e B | c ||
+
+
+
+
+
+
+X:8
+T:Héloïse et Abailard
+T:Loiza hag Abalard
+R:
+A:Bretagne
+S:http://students.washington.edu/jjcrump/courses/honor252/heloise.html
+B:1923 edition of Villemarqué's book Barzaz-Breiz : Chants Populaires de la Bretagne. 
+O:France
+Z:  Eric Forgeot - http://anamnese.online.fr
+M:3/4
+L:1/4
+Q:1/4=130
+K:G
+(d/e/) | d2 (d/c/) || [M:2/4] B e || [M:3/4] ed 
+(d/e/) | d2 (d/c/) || [M:2/4] B e || [M:3/4] (ed/)z/ 
+(d/e/) | d2 (d/c/) || [M:2/4] B e || [M:3/4] (ed/)Hz/
+     d | d2 d ||[M:2/4] d d || [M:3/4] BGA | B2B | B2 A/ > G/ A-| A Hz 
+     d | d2 d ||[M:2/4] d d || [M:3/4] BGA | (Bc)B | B2 A |(AG2) ||
+%%multicol start
+%%rightmargin 11.5cm
+%%begintext
+W:Je n'avais que douze ans quand je quittai la maison de mon père,
+W:quand je suivis mon clerc, mon bien cher Abailard.
+W:
+W:Quand j'allai à Nantes, avec mon doux clerc, 
+W:je ne savais, mon Dieu, d'autre langue que le breton;
+W:
+W:Je ne savais, mon Dieu, que dire mon Pater, 
+W:quand j'étais chez mon père, petite, à la maison.
+W:
+W:Mais maintenant je suis instruite, fort instruite en tout point; 
+W:je connais la langue des Franks et le latin, je sais et écrire,
+W:
+W:Et mème lire dans le livre des Évangiles, et bien écrir parler, 
+W:et consacrer l'hostie aussi bien que tout prêtre.
+W:
+W:Et empêcher le prêtre de dire sa messe, 
+W:et nouer l'aiguilette par le milieu et les deux bouts;
+W:
+W:Je sais trouver l'or pur, l'or au milieu de la cendre,
+W:et l'argent dans le sable, quand j'en ai le moyen:
+W:
+W:Je me change en chienne noire, ou en corbeau, 
+W:quand je le veux, ou en feu follet, ou en dragon;
+W:
+W:Je sais une chanson qui fait fendre les cieux, 
+W:et tressaillir la grande mer, et trembler la terre.
+W:
+W:Je sais, moi, tout ce qu'il y a à savoir en ce monde; 
+W:tout ce qui a été jadis, et tout ce qui sera.
+W:
+W:La première drogue que je fis avec mon doux clerc, 
+W:fut faite l'oeil gauche d'un corbeau, et le coeur d'un crapaud;
+W:
+W:Et avec la graine de la fougère verte, cueillie à cent brasses 
+W:au fond du puits, et avec la racine de l'Herbe d'or arrachée dans la prairie,
+W:
+W:Arrachée tête nue, au lever du soleil, 
+W:en chemise et nupieds.
+W:
+W:La première épreuve que je fis de mes drogues, 
+W:fut faite dans le champ de seigle du seigneur abbé:
+W:
+W:De dix-huit mesures de seigle qu'avait semées l'abbé, 
+W:il ne recueillit que deux poignées.
+W:
+W:J'ai un coffret d'argent à la maison, chez mon père: 
+W:qui l'ouvrirait s'en repentirait bien!
+W:
+W:Il y a là trois vipères qui couvent un oeuf de dragon; 
+W:si mon dragon vient à bien, il y aura désolation.
+W:
+W:Si mon dragon vient à bien, il y aura grande désolation; 
+W:il jettera des flammes à sept lieues à la ronde.
+W:
+W:Ce n'est pas avec de la chair de perdrix, ni avec de la chair de bécasse, 
+W:mais avec le sang sacré des Innocents, que je nourris mes vipères.
+W:
+W:Le premier que je tuai était dans le cimetière,
+W:sur le point de recevoir le baptême, et le prêtre en surplis.
+W:
+W:Quaud on l'eut porté au carrefour, je quittai ma chaussure, 
+W:et m'en allai le déterrer, sans bruit, sur mes bas.
+W:
+W:Si je reste sur terre, et ma Lumière avec moi; 
+W:si nous restons en ce monde encore un an ou deux;
+W:
+W:Encore deux ou trois ans, mon doux ami et moi, 
+W:nous ferons tourner ce monde à rebours.
+W:
+W:-Prenez bien garde, jeune Loïza, prenez garde à votre âme; 
+W:si ce monde est a vous, l'autre appartient à Dieu.-
+W:
+%%endtext
+%%multicol new
+%%leftmargin 11.5cm
+%%begintext
+W:LOIZA HAG ABALARD 
+W:(- IES KERNE -)
+W:
+W:Ne oann nemed dauzek vloa pa guitiz ti ma zad,
+W:Pa oann oet gand ma c'loarek, ma Abalardik mad.
+W:
+W:Pa oann-me occ da naonet gand ma dousik kloarek
+W:Ne ouienn ies, ma Doue, nemed ar brezonek;
+W:
+W:Ne ouienn tra, ma Doue, met laret ma feter;
+W:Pa oann-me plac'hik biban e ti ma zad er ger,
+W:
+W:Hogen breman, disket onn, disket onn mad a-grenne;
+W:Me oar Galleg ha Latin, me oar skriva ha lenn;
+W:
+W:la lenn e levr ann Aviel ha skriva mad ha preek,
+W:Ha sakri ar bara-kann kerkouls ha peb belek;
+W:
+W:Ha miret ouz ar belek da lar he oferen,
+W:Ha skloumo ann alc'houilten e kreiz hag enn daoubenn.
+W:
+W:Me oar kaout ann aour melen, ann aour touez al ladu;
+W:Hag ann argant touez ann drez, pa'm euz kavet an tu:
+W:
+W:Me oar mont da giez du, pe da vran, p'am euz c'hoant;
+W:Pe da botrik ar skod-tan, pe da aerouant;
+W:
+W:Me oar eur zon hag a lak ann nenvou da frailla
+W:Hag ar mor braz da zridal. hag aon douar da grena.
+W:
+W:Me oar me kement tra zo er bed-man da c'houiet,
+W:Kement tra zo bet gwechall, kement zo da zonet.
+W:
+W:Kentan louzou am euz gret gant ma dousik kloarek,
+W:Oe gand lagad klei eur vran ha kalon eunn tousek;
+W:
+W:Ha gand had ar raden glaz, don ar puns hat goured,
+W:Ha grouiou ann aour-ieoten war ar prad dastumet;
+W:
+W:Dastumet, diskbel-kaer, d'ar goulou-de a-grenn,
+W:Nemed ma iviz gen-in, hag ouspenn dierc'henn.
+W:
+W:Kenta 'toliz ma louzcu da c'hout hag hen oa mad,
+W:A oe e-kreiz park segal ann otrouann Abad,
+W:
+W:Deuz triouec'h bigouad segal doa hadet ann Abad,
+W:N'en deuz bet da zastumi nemed diou guichennad.
+W:
+W:Me'm euz eunn arc'hig argant er ger e ti ma zad,
+W:Ann hini hen digorfe en defe kalonad'
+W:
+W:Hag enn han teir aer-wiber o c'houri ui aerouant,
+W:Mar deu ma aerouant da vad, neuze vo nec'hamant.
+W:
+W:Mar deu ma aerouant da vad, a vo gwall nec'hamant;
+W:Seiz leo war-dro ac'hannen e teui da deureul tan.
+W:
+W:Ne ket gand kik klujiri na kik keveleged,
+W:Gand goad sakr ar re zinam eo int gan-in maget.
+W:
+W:Ar c'hentan em boa lahet oa ebarz ar vered,
+W:O vonet d'ar vadiant, hag ar beleg gwisket.
+W:
+W:Tre ma oa oet d'ar c'hroaz-hent, e tonnez ma boutou,
+W:Hag a iez d'he ziveia, didrouz, war ma lerou.
+W:
+W:Mar jommann war ann douar, ha gen-in ma Goulaou,
+W:Mar jommomp war ar bed-man, c'hoaz eur bloavez pe zaoug
+W:
+W:C'hoaz eunn daou pe dri bloavez, ma dous ha me hon daou,
+W:Ni a lakai ar bed-man da drei war he c'hinaou.
+W:
+W:-- Evesait mad, Loizaik, evesait d'hoc'h ene,
+W:Mar d-eo ar bed-man d'hoc'h-hu, da Zoue egile.--
+%%endtext
+%%multicol end
+  
+
+X:74
+T:Maréchal nous voilà
+R:
+C:
+H:
+N:
+D:André Dassary 
+A:Paroles : A.Montagard - Musique : A.Montagard, C.Courtioux - 1941
+O:
+Z:
+M:C
+L:1/4
+%%textfont Helvetica 9
+%%text Paroles : A.Montagard 
+%%text Musique : A.Montagard, C.Courtioux
+%%textfont Helvetica 8
+%%text (1941)
+Q:1/4=125
+K:C
+"Couplets" c B/ A/ GA | c2 c2 | c B/ A/ GA | B2-B2 |\
+d c/ B/ AB |(d2 A2)| c B/ A/ GA | e2-e2 |
+c B/ A/ GA | c2 c2 | c d/ e/ dc | A2-A2 |\
+d c/ B/ Ac |(e2 G2)| A B/ c/ Bc | d2-d2 ||
+"Refrain" E/G/ c3 | e/d/ c3 | e/d/ c e/d/ c | B/c/ d2 A |\
+A/A/ d3 | f/e/ d3 | d/c/ B B/A/ G | G/F/ E3 |
+E/G/ c3 | e/d/ c3 | e/d/ c e/d/ c | d/e/ f3 |\
+A/A/ f3 | e/d/ e3 | A/A/ B c/c/ d | c/B/ c3 ||
+W:Une flamme sacrée
+W:Monte du sol natal
+W:Et la France enivrée
+W:Te salue Maréchal !
+W:Tous tes enfants qui t'aiment
+W:Et vénèrent tes ans
+W:A ton appel suprême
+W:Ont répondu "Présent"
+W:
+W:         Maréchal nous voilà !
+W:         Devant toi, le sauveur de la France
+W:         Nous jurons, nous, tes gars
+W:         De servir et de suivre tes pas
+W:         Maréchal nous voilà !
+W:         Tu nous as redonné l'espérance
+W:         La Patrie renaîtra !
+W:         Maréchal, Maréchal, nous voilà ! 
+W:
+W:Tu as lutté sans cesse
+W:Pour le salut commun
+W:On parle avec tendresse
+W:Du héros de Verdun
+W:En nous donnant ta vie
+W:Ton génie et ta foi
+W:Tu sauves la Patrie
+W:Une seconde fois :
+W:
+W:Quand ta voix nous répète
+W:Afin de nous unir :
+W:"Français levons la tête,
+W:Regardons l'avenir !"
+W:Nous, brandissant la toile
+W:Du drapeau immortel,
+W:Dans l'or de tes étoiles,
+W:Nous voyons luire un ciel :
+W:
+W:La guerre est inhumaine
+W:Quel triste épouvantail !
+W:N'écoutons plus la haine
+W:Exaltons le travail
+W:Et gardons confiance
+W:Dans un nouveau destin
+W:Car Pétain, c'est la France,
+W:La France, c'est Pétain !
+ 
+
+
+X:8
+T:Robin0
+R:Scottish
+D:Yogan "La marée au galop"
+Z: Eric Forgeot - http://anamnese.online.fr -- http://anamnese.fr.st
+M:4/4
+L:1/8
+Q:1/4=200
+K:G
+E4 BA FA | E4 AD FA | E4 cA BG | AG FG Ac BA :|
+EB GB E2 EG | FE/D/ AF DE FD |
+EB GB E2 EG | FE/D/ AF GE E2 |
+EB GB E2 EG | FE/D/ DF AD FA | 
+EB, B,2 EF GE | FA GF GE E2 |
+|: ef gf/e/ bg fg | Bg fg af df | 
+   ef gf/e/ bg fe | fa gf ge e2 :|
+
+
+X:8
+T:Robin
+R:Scottish
+C:Trad.
+D:Yogan "La marée au galop"
+Z: Eric Forgeot - http://anamnese.online.fr
+M:C
+L:1/8
+Q:1/4=190
+K:G
+E4 BA FA | E4 AD FA | E4 cA BG | AG FG Ac BA :|
+|: EB GB E2 EG | (3FED AF DE FD |
+EB GB E2 EG | (3FED AF GE E2 |
+EB GB E2 EG | (3FED AF DF AD | 
+EB, B,2 EF GE | FA GF GE E2 :|
+|: ef (3gfe bg fg | Bg fg af df | 
+   ef (3gfe bg fe | fa gf ge e2 |
+   ef (3gfe bg fg | Bg fg af df | 
+   bg af gf e^c | (3d^cB AF GE E2 :|
