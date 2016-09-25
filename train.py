@@ -115,8 +115,8 @@ print ("Training set size: y_train", y_train.shape)
 model = trainModel(X_train, y_train, maxlen, dic_size)
 print ("..Training has finished...")
 
-### Save the model
-model.save('trained_model/demo.h5')
+### Uncomment to save the model, for usage, please refer to Keras FAQ
+# model.save('trained_model/demo.h5')
 
 ### Compose the music and save
 comp = [predict(model, X_test[i], 200, index_to_melo) for i in range(0,20000,1000)]
