@@ -5,8 +5,8 @@
 81 type of notes
 input dict length: 1863
 ...Making the training set...
-('Training set size: X_train', (114702, 16, 1863))
-('Training set size: y_train', (114702, 1863))
+('Training set size: X_train', (90000, 16, 1863))
+('Training set size: y_train', (90000, 1863))
 ...Making the LSTM-model...
 ...Start training...
 Epoch 1/50

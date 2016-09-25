@@ -302,16 +302,9 @@ if do_repeat:
 	song = song + second_ver
 f.close()
 
-if not sel:
-	print
-	print "*** Song %u not found in file %s!" % (num, fn)
-	print
-# else:
-# 	print key, unit
-# 	print song
-# 	print
-# 	print len(song)
+if sel:
+	f = open("dataset/demo.txt",'a+')
+	f.write(str(song))
+	f.write('\n')
 
-f = open("dataset/demo.txt",'a+')
-f.write(str(song))
-f.write('\n')
+

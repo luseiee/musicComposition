@@ -15,7 +15,7 @@ import pysynth
 
 ### Define some constants
 maxlen = 16 # The length of LSTM
-epochs = 100
+epochs = 50
 
 ### Read the file and put the music into a list
 def splitMusic(file_name = "dataset/data.txt"):
@@ -65,8 +65,8 @@ def makeTrainset(melody, m_to_i):
 	    for t, n in enumerate(m):
 	        X_train[i, t, n] = 1
 	    y_train[i, y[i]] = 1
-	print ("Training set size: X_train", X_train.shape)
-	print ("Training set size: y_train", y_train.shape)
+	# print ("Training set size: X_train", X_train.shape)
+	# print ("Training set size: y_train", y_train.shape)
 	return X_train, y_train
 
 ### Make the LSTM-model and training
@@ -107,19 +107,22 @@ def predict(model, feedin, len, i_to_m):
 ### The main program
 melody = splitMusic("dataset/demo.txt")
 melo_to_index, index_to_melo, dic_size = makeDict(melody)
-X_train, y_train = makeTrainset(melody, melo_to_index)
-X_train, y_train, X_test, y_test = X_train[0:80000], y_train[0:80000], X_train[-20000:], y_train[-20000:]
+X, y = makeTrainset(melody, melo_to_index)
+# Use part to train and part as trigger to create music
+X_train, y_train, X_test, y_test = X[0:90000], y[0:90000], X[-20000:], y[-20000:]
+print ("Training set size: X_train", X_train.shape)
+print ("Training set size: y_train", y_train.shape)
 model = trainModel(X_train, y_train, maxlen, dic_size)
-print ("..Training is finished...")
+print ("..Training has finished...")
 
 ### Save the model
 model.save('trained_model/demo.h5')
 
-### Predict the music comp
+### Compose the music and save
 comp = [predict(model, X_test[i], 200, index_to_melo) for i in range(0,20000,1000)]
 wave = [[index_to_melo[i] for i in c] for c in comp]
 wave = [[[m.split()[1], float(m.split()[0])] for m in w] for w in wave]
 for i,w in enumerate(wave):
-	pysynth.make_wav(w, fn = "composed_melody/demo/demo"+str(i)+".wav")
+	pysynth.make_wav(w, fn = "composed_melody/demo/demox"+str(i)+".wav")
 
 
