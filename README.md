@@ -22,7 +22,7 @@ If you have cuda installed, use this command to train and compose music with GPU
 Or just omit the flags and train with CPU, but the process will be very slow.
 
     $ python train.py
-The generated music will be stored in */composed_music/demo*.
+The generated music will be stored in */composed_melody/demo*.
 
 The whole training and composing process is less than 1 hour on GTX1060 computer for demo code.
 
