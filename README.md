@@ -36,3 +36,7 @@ The whole training and composing process is less than 1 hour on GTX1060 computer
 ## 3. Composed music
 
 We've trained several dataset and created music of different styles. And these can all be accessed in */composed_melody/*
+
+1. demo: the model is trained from demo dataset （805 songs of various types), the composed music is triggerred with small pieces of melody not in the dataset.
+2. france: the model is trained from french traditional music dataset （1000 french traditional songs), the composed music is triggerred with small pieces of melody not in the dataset.
+3. mixed: the model is trained from mixed music dataset （20000 songs of various types), the composed music is triggerred with small pieces of melody not in the dataset.
